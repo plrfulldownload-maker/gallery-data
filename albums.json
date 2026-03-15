@@ -1,330 +1,103 @@
 {
-  "version": 1793572233107,
+  "version": 1773582600613,
   "categories": [
     {
       "name": "Phật tử",
       "albums": [
         {
-          "name": "Tại tháp Như Ý, Kathmandu Nepal",
-          "count": 8,
-          "cover": "https://drive.google.com/thumbnail?id=1Pm3wtuIYzyJ308n_tzfWa4XSH28W49JD&sz=w600",
+          "name": "Phật tử 01",
+          "count": 15,
+          "cover": "https://drive.google.com/thumbnail?id=19UTF9ErJdYbn6IwM-gdbz-_unNzNvTh3&sz=w600",
           "photos": [
             {
               "name": "Nữ phật tử tại Tháp Như Ý 3-2026 (2).png",
-              "url": "https://drive.google.com/uc?id=1Pm3wtuIYzyJ308n_tzfWa4XSH28W49JD",
-              "thumb": "https://drive.google.com/thumbnail?id=1Pm3wtuIYzyJ308n_tzfWa4XSH28W49JD&sz=w600",
+              "url": "https://drive.google.com/uc?id=19UTF9ErJdYbn6IwM-gdbz-_unNzNvTh3",
+              "thumb": "https://drive.google.com/thumbnail?id=19UTF9ErJdYbn6IwM-gdbz-_unNzNvTh3&sz=w600",
               "desc": "Nữ phật tử tại Tháp Như Ý 3-2026 (2).png"
             },
             {
               "name": "Nữ phật tử tại Tháp Như Ý 3-2026 (3).png",
-              "url": "https://drive.google.com/uc?id=11HRvNETDqWIUL6jBGgkAEma_hkWjrzyb",
-              "thumb": "https://drive.google.com/thumbnail?id=11HRvNETDqWIUL6jBGgkAEma_hkWjrzyb&sz=w600",
+              "url": "https://drive.google.com/uc?id=1q3mBV3yskKC2MFfRkVBvQPUgnYXjJK0v",
+              "thumb": "https://drive.google.com/thumbnail?id=1q3mBV3yskKC2MFfRkVBvQPUgnYXjJK0v&sz=w600",
               "desc": "Nữ phật tử tại Tháp Như Ý 3-2026 (3).png"
             },
             {
               "name": "Nữ phật tử tại Tháp Như Ý 3-2026 (4).png",
-              "url": "https://drive.google.com/uc?id=1D-5iwIl05LDQcpPWienGs_BTYqq4bIcC",
-              "thumb": "https://drive.google.com/thumbnail?id=1D-5iwIl05LDQcpPWienGs_BTYqq4bIcC&sz=w600",
+              "url": "https://drive.google.com/uc?id=1tu215kRl1KrSrGskT-0e7yqS9Kln6-R8",
+              "thumb": "https://drive.google.com/thumbnail?id=1tu215kRl1KrSrGskT-0e7yqS9Kln6-R8&sz=w600",
               "desc": "Nữ phật tử tại Tháp Như Ý 3-2026 (4).png"
             },
             {
               "name": "Nữ phật tử tại Tháp Như Ý 3-2026 (5).png",
-              "url": "https://drive.google.com/uc?id=1_Namd_VMk6uoy_743A58eD8KZRoW_K0A",
-              "thumb": "https://drive.google.com/thumbnail?id=1_Namd_VMk6uoy_743A58eD8KZRoW_K0A&sz=w600",
+              "url": "https://drive.google.com/uc?id=11gdaZV-kUSWW-aRpA5I2uJ69Ak5H12_j",
+              "thumb": "https://drive.google.com/thumbnail?id=11gdaZV-kUSWW-aRpA5I2uJ69Ak5H12_j&sz=w600",
               "desc": "Nữ phật tử tại Tháp Như Ý 3-2026 (5).png"
             },
             {
               "name": "Nữ phật tử tại Tháp Như Ý 3-2026 (1).png",
-              "url": "https://drive.google.com/uc?id=1IrJTBB2ASUYB9WmRXm02cqQSkJMF5zDw",
-              "thumb": "https://drive.google.com/thumbnail?id=1IrJTBB2ASUYB9WmRXm02cqQSkJMF5zDw&sz=w600",
+              "url": "https://drive.google.com/uc?id=1ZINpVvYNcvbq0YbHFIoySzW1pGxYRTKp",
+              "thumb": "https://drive.google.com/thumbnail?id=1ZINpVvYNcvbq0YbHFIoySzW1pGxYRTKp&sz=w600",
               "desc": "Nữ phật tử tại Tháp Như Ý 3-2026 (1).png"
             },
             {
               "name": "Phật tử trước khu tạm trú ĐOÀN.png",
-              "url": "https://drive.google.com/uc?id=1D46S4JJNomkuFv9viQdBS0aNLuYOydvq",
-              "thumb": "https://drive.google.com/thumbnail?id=1D46S4JJNomkuFv9viQdBS0aNLuYOydvq&sz=w600",
+              "url": "https://drive.google.com/uc?id=1Pr6gfMMlCF_4A0mGSBPhLyUmDuM4Pn84",
+              "thumb": "https://drive.google.com/thumbnail?id=1Pr6gfMMlCF_4A0mGSBPhLyUmDuM4Pn84&sz=w600",
               "desc": "Phật tử trước khu tạm trú ĐOÀN.png"
             },
             {
               "name": "Tại sân bay Kathmandu -Đưa tiễn Minh Giải Minh Thức Minh Hiển bay về Thái Lan 3-2026.png",
-              "url": "https://drive.google.com/uc?id=18y2Lpk14Ajg7bvgknvbDKwCnz1j0lVrP",
-              "thumb": "https://drive.google.com/thumbnail?id=18y2Lpk14Ajg7bvgknvbDKwCnz1j0lVrP&sz=w600",
+              "url": "https://drive.google.com/uc?id=1OGaUEccMyEFVyv8Xr6sI_OL07AzorY4J",
+              "thumb": "https://drive.google.com/thumbnail?id=1OGaUEccMyEFVyv8Xr6sI_OL07AzorY4J&sz=w600",
               "desc": "Tại sân bay Kathmandu -Đưa tiễn Minh Giải Minh Thức Minh Hiển bay về Thái Lan 3-2026.png"
             },
             {
               "name": "Đưa tiễn Minh Giải Minh Thức Minh Hiển bay về Thái Lan 3-2026.png",
-              "url": "https://drive.google.com/uc?id=1B4p0pvJ83Qm40rLYXisEpv1KGw47TiXB",
-              "thumb": "https://drive.google.com/thumbnail?id=1B4p0pvJ83Qm40rLYXisEpv1KGw47TiXB&sz=w600",
+              "url": "https://drive.google.com/uc?id=1GwfgUmK-YPnnAbrPMJUZ31owCil9IrUK",
+              "thumb": "https://drive.google.com/thumbnail?id=1GwfgUmK-YPnnAbrPMJUZ31owCil9IrUK&sz=w600",
               "desc": "Đưa tiễn Minh Giải Minh Thức Minh Hiển bay về Thái Lan 3-2026.png"
-            }
-          ]
-        },
-        {
-          "name": "Chị Quế, phật tử bên ngoài khu vực tạm trú",
-          "count": 3,
-          "cover": "https://drive.google.com/thumbnail?id=1ZX_csA0zpTi--JzH-0lXvzCSOsP9ezbV&sz=w600",
-          "photos": [
+            },
             {
               "name": "Chị Quế, phật tử bên ngoài khu vực tạm trú ĐOÀN sư MT 3-2026 (1).png",
-              "url": "https://drive.google.com/uc?id=1ZX_csA0zpTi--JzH-0lXvzCSOsP9ezbV",
-              "thumb": "https://drive.google.com/thumbnail?id=1ZX_csA0zpTi--JzH-0lXvzCSOsP9ezbV&sz=w600",
+              "url": "https://drive.google.com/uc?id=1kzxcH16Z7wDgMs5PAPG5pShb1epDsKDh",
+              "thumb": "https://drive.google.com/thumbnail?id=1kzxcH16Z7wDgMs5PAPG5pShb1epDsKDh&sz=w600",
               "desc": "Chị Quế, phật tử bên ngoài khu vực tạm trú ĐOÀN sư MT 3-2026 (1).png"
             },
             {
               "name": "Chị Quế, phật tử bên ngoài khu vực tạm trú ĐOÀN sư MT 3-2026 (3).png",
-              "url": "https://drive.google.com/uc?id=1HhjYZEOTUjId1zv8tFI0Nm2pnkN7zixv",
-              "thumb": "https://drive.google.com/thumbnail?id=1HhjYZEOTUjId1zv8tFI0Nm2pnkN7zixv&sz=w600",
+              "url": "https://drive.google.com/uc?id=1rQ3YeduFO_j8HGRiuyvyG5etrxqjC7ED",
+              "thumb": "https://drive.google.com/thumbnail?id=1rQ3YeduFO_j8HGRiuyvyG5etrxqjC7ED&sz=w600",
               "desc": "Chị Quế, phật tử bên ngoài khu vực tạm trú ĐOÀN sư MT 3-2026 (3).png"
             },
             {
               "name": "Chị Quế, phật tử bên ngoài khu vực tạm trú ĐOÀN sư MT 3-2026 (2).png",
-              "url": "https://drive.google.com/uc?id=1DER4oLBE3oNE57F7a7zw7mh1A7anQsWS",
-              "thumb": "https://drive.google.com/thumbnail?id=1DER4oLBE3oNE57F7a7zw7mh1A7anQsWS&sz=w600",
+              "url": "https://drive.google.com/uc?id=1Aj_FFcYsH1eupKd6_QeovqTJiw6HrX5H",
+              "thumb": "https://drive.google.com/thumbnail?id=1Aj_FFcYsH1eupKd6_QeovqTJiw6HrX5H&sz=w600",
               "desc": "Chị Quế, phật tử bên ngoài khu vực tạm trú ĐOÀN sư MT 3-2026 (2).png"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Sư Minh Tuệ",
-      "albums": [
-        {
-          "name": "Thư giới thiệu",
-          "count": 4,
-          "cover": "https://drive.google.com/thumbnail?id=1zgYjiujBUzFRnqwePc0_13P_8yg6WQ4K&sz=w600",
-          "photos": [
-            {
-              "name": "534525676_122176487492507346_5173777626923861864_n.jpg",
-              "url": "https://drive.google.com/uc?id=1zgYjiujBUzFRnqwePc0_13P_8yg6WQ4K",
-              "thumb": "https://drive.google.com/thumbnail?id=1zgYjiujBUzFRnqwePc0_13P_8yg6WQ4K&sz=w600",
-              "desc": "534525676_122176487492507346_5173777626923861864_n.jpg"
             },
             {
-              "name": "533178535_10236971874018080_5334279066438024704_n.jpg",
-              "url": "https://drive.google.com/uc?id=1FtuX5lGXsto0WdrjmNpBu-JGJE73mgmi",
-              "thumb": "https://drive.google.com/thumbnail?id=1FtuX5lGXsto0WdrjmNpBu-JGJE73mgmi&sz=w600",
-              "desc": "533178535_10236971874018080_5334279066438024704_n.jpg"
+              "name": "Phật tử bên trong khu tạm trú 3-2026 (2).png",
+              "url": "https://drive.google.com/uc?id=14HGD_IblEYdu8CDBslynS-6_717rB8AR",
+              "thumb": "https://drive.google.com/thumbnail?id=14HGD_IblEYdu8CDBslynS-6_717rB8AR&sz=w600",
+              "desc": "Phật tử bên trong khu tạm trú 3-2026 (2).png"
             },
             {
-              "name": "536145401_10236971873698072_352986798429203409_n.jpg",
-              "url": "https://drive.google.com/uc?id=14KhcPPjsrWqSCl-NxOIqCRTk6ijIxe6m",
-              "thumb": "https://drive.google.com/thumbnail?id=14KhcPPjsrWqSCl-NxOIqCRTk6ijIxe6m&sz=w600",
-              "desc": "536145401_10236971873698072_352986798429203409_n.jpg"
+              "name": "Phật tử bên trong khu tạm trú 3-2026 (1).png",
+              "url": "https://drive.google.com/uc?id=1gNnH1MJRPKufRI627ZEPH4ZiuE__piBb",
+              "thumb": "https://drive.google.com/thumbnail?id=1gNnH1MJRPKufRI627ZEPH4ZiuE__piBb&sz=w600",
+              "desc": "Phật tử bên trong khu tạm trú 3-2026 (1).png"
             },
             {
-              "name": "536180288_10236971872858051_9036392140528303584_n.jpg",
-              "url": "https://drive.google.com/uc?id=10b0BIQXg1j9ixzdB5nFtO6yGOXx3RCc4",
-              "thumb": "https://drive.google.com/thumbnail?id=10b0BIQXg1j9ixzdB5nFtO6yGOXx3RCc4&sz=w600",
-              "desc": "536180288_10236971872858051_9036392140528303584_n.jpg"
-            }
-          ]
-        },
-        {
-          "name": "Tâm thư",
-          "count": 2,
-          "cover": "https://drive.google.com/thumbnail?id=1WmNbmQk8wcGydybuoI4JX6cMzolHoArD&sz=w600",
-          "photos": [
-            {
-              "name": "VSq8izA5T8.png",
-              "url": "https://drive.google.com/uc?id=1WmNbmQk8wcGydybuoI4JX6cMzolHoArD",
-              "thumb": "https://drive.google.com/thumbnail?id=1WmNbmQk8wcGydybuoI4JX6cMzolHoArD&sz=w600",
-              "desc": "VSq8izA5T8.png"
+              "name": "Chùa Cam 11-2025.png",
+              "url": "https://drive.google.com/uc?id=1TvpIYjc8ZawBP-YXGU3nHlAy7bexhFHp",
+              "thumb": "https://drive.google.com/thumbnail?id=1TvpIYjc8ZawBP-YXGU3nHlAy7bexhFHp&sz=w600",
+              "desc": "Chùa Cam 11-2025.png"
             },
             {
-              "name": "NXd31LTi2l.png",
-              "url": "https://drive.google.com/uc?id=11L6RbwCZkkJMNanAaax6ruYXYMLEczDi",
-              "thumb": "https://drive.google.com/thumbnail?id=11L6RbwCZkkJMNanAaax6ruYXYMLEczDi&sz=w600",
-              "desc": "NXd31LTi2l.png"
-            }
-          ]
-        },
-        {
-          "name": "Ngủ đứng",
-          "count": 8,
-          "cover": "https://drive.google.com/thumbnail?id=1ANyUl6vy6QVGyrxJVjWh1cjNTx9oU-Y1&sz=w600",
-          "photos": [
-            {
-              "name": "2025-06-21_143614.png",
-              "url": "https://drive.google.com/uc?id=1ANyUl6vy6QVGyrxJVjWh1cjNTx9oU-Y1",
-              "thumb": "https://drive.google.com/thumbnail?id=1ANyUl6vy6QVGyrxJVjWh1cjNTx9oU-Y1&sz=w600",
-              "desc": "2025-06-21_143614.png"
-            },
-            {
-              "name": "2025-06-21_143537.png",
-              "url": "https://drive.google.com/uc?id=16-kOucCq8Em1jqoOu31HzUZfwWv31qvm",
-              "thumb": "https://drive.google.com/thumbnail?id=16-kOucCq8Em1jqoOu31HzUZfwWv31qvm&sz=w600",
-              "desc": "2025-06-21_143537.png"
-            },
-            {
-              "name": "2025-06-20_092532.png",
-              "url": "https://drive.google.com/uc?id=1q6IYCVt_8g3cODl57SJ7deasfLZ7NCw2",
-              "thumb": "https://drive.google.com/thumbnail?id=1q6IYCVt_8g3cODl57SJ7deasfLZ7NCw2&sz=w600",
-              "desc": "2025-06-20_092532.png"
-            },
-            {
-              "name": "2025-06-20_092520.png",
-              "url": "https://drive.google.com/uc?id=1Dcg3CPuhsS-tDQnUASWz6lTaHRrw3yPI",
-              "thumb": "https://drive.google.com/thumbnail?id=1Dcg3CPuhsS-tDQnUASWz6lTaHRrw3yPI&sz=w600",
-              "desc": "2025-06-20_092520.png"
-            },
-            {
-              "name": "2025-06-20_092359.png",
-              "url": "https://drive.google.com/uc?id=1gU-DQmM1qCG-vlWUMkTXySAL5GESmEyq",
-              "thumb": "https://drive.google.com/thumbnail?id=1gU-DQmM1qCG-vlWUMkTXySAL5GESmEyq&sz=w600",
-              "desc": "2025-06-20_092359.png"
-            },
-            {
-              "name": "2025-06-20_092340.png",
-              "url": "https://drive.google.com/uc?id=13FNNG6Ye1epczPHPvWSYl9bQ7YUWl5Ml",
-              "thumb": "https://drive.google.com/thumbnail?id=13FNNG6Ye1epczPHPvWSYl9bQ7YUWl5Ml&sz=w600",
-              "desc": "2025-06-20_092340.png"
-            },
-            {
-              "name": "2025-06-20_092323.png",
-              "url": "https://drive.google.com/uc?id=1_HBcHr62biZmZBl-WvTc7EcgN4ETAIo_",
-              "thumb": "https://drive.google.com/thumbnail?id=1_HBcHr62biZmZBl-WvTc7EcgN4ETAIo_&sz=w600",
-              "desc": "2025-06-20_092323.png"
-            },
-            {
-              "name": "2025-06-20_092258.png",
-              "url": "https://drive.google.com/uc?id=1nrsE_W3fWHoJ76Tq6YZohrA9JrrYBUSr",
-              "thumb": "https://drive.google.com/thumbnail?id=1nrsE_W3fWHoJ76Tq6YZohrA9JrrYBUSr&sz=w600",
-              "desc": "2025-06-20_092258.png"
-            }
-          ]
-        },
-        {
-          "name": "Facebook",
-          "count": 1,
-          "cover": "https://drive.google.com/thumbnail?id=1K8yyuSRa4v3CHA_GZ8xLkMeg1GgcehgA&sz=w600",
-          "photos": [
-            {
-              "name": "fb-IMG_0657.jpg",
-              "url": "https://drive.google.com/uc?id=1K8yyuSRa4v3CHA_GZ8xLkMeg1GgcehgA",
-              "thumb": "https://drive.google.com/thumbnail?id=1K8yyuSRa4v3CHA_GZ8xLkMeg1GgcehgA&sz=w600",
-              "desc": "fb-IMG_0657.jpg"
-            }
-          ]
-        },
-        {
-          "name": "Chùa Cam Lâm Tỳ Ni",
-          "count": 11,
-          "cover": "https://drive.google.com/thumbnail?id=1KhukwmS4bL_N9qU1rq-CZVbnfuLZmpZV&sz=w600",
-          "photos": [
-            {
-              "name": "Chùa Cam Nepal (2).png",
-              "url": "https://drive.google.com/uc?id=1KhukwmS4bL_N9qU1rq-CZVbnfuLZmpZV",
-              "thumb": "https://drive.google.com/thumbnail?id=1KhukwmS4bL_N9qU1rq-CZVbnfuLZmpZV&sz=w600",
-              "desc": "Chùa Cam Nepal (2).png"
-            },
-            {
-              "name": "Chùa Cam Nepal (1).png",
-              "url": "https://drive.google.com/uc?id=1THxou3RqI6eH79NWoMHBHxkHiiaagw2_",
-              "thumb": "https://drive.google.com/thumbnail?id=1THxou3RqI6eH79NWoMHBHxkHiiaagw2_&sz=w600",
-              "desc": "Chùa Cam Nepal (1).png"
-            },
-            {
-              "name": "Sư MT tại Lâm Tỳ Ni (2).png",
-              "url": "https://drive.google.com/uc?id=1fVQ0KtsVHbaNxdt5WuHUhbopTodRyZSq",
-              "thumb": "https://drive.google.com/thumbnail?id=1fVQ0KtsVHbaNxdt5WuHUhbopTodRyZSq&sz=w600",
-              "desc": "Sư MT tại Lâm Tỳ Ni (2).png"
-            },
-            {
-              "name": "Chùa Cam Nepal.png",
-              "url": "https://drive.google.com/uc?id=1BGNgc9reAaAxKzgRpVp0UtnqN0AUcRQp",
-              "thumb": "https://drive.google.com/thumbnail?id=1BGNgc9reAaAxKzgRpVp0UtnqN0AUcRQp&sz=w600",
-              "desc": "Chùa Cam Nepal.png"
-            },
-            {
-              "name": "Sư MT tại Lâm Tỳ Ni (1).png",
-              "url": "https://drive.google.com/uc?id=1ZHKFuYaCBGDKFJiLQkDaXvf38YHI8BXO",
-              "thumb": "https://drive.google.com/thumbnail?id=1ZHKFuYaCBGDKFJiLQkDaXvf38YHI8BXO&sz=w600",
-              "desc": "Sư MT tại Lâm Tỳ Ni (1).png"
-            },
-            {
-              "name": "Sư MT tại Lâm Tỳ Ni (6).png",
-              "url": "https://drive.google.com/uc?id=1erV_YWL-1XVBnvInyYrMCdZbWMYrsAVZ",
-              "thumb": "https://drive.google.com/thumbnail?id=1erV_YWL-1XVBnvInyYrMCdZbWMYrsAVZ&sz=w600",
-              "desc": "Sư MT tại Lâm Tỳ Ni (6).png"
-            },
-            {
-              "name": "Sư MT tại Lâm Tỳ Ni (5).png",
-              "url": "https://drive.google.com/uc?id=17CMOAdxozfz2q-4-3UCFFX2G1f4l8GET",
-              "thumb": "https://drive.google.com/thumbnail?id=17CMOAdxozfz2q-4-3UCFFX2G1f4l8GET&sz=w600",
-              "desc": "Sư MT tại Lâm Tỳ Ni (5).png"
-            },
-            {
-              "name": "Sư MT tại Lâm Tỳ Ni (4).png",
-              "url": "https://drive.google.com/uc?id=1hrNoH2dZuvIRp02UoMPRGfWX1PaOASd6",
-              "thumb": "https://drive.google.com/thumbnail?id=1hrNoH2dZuvIRp02UoMPRGfWX1PaOASd6&sz=w600",
-              "desc": "Sư MT tại Lâm Tỳ Ni (4).png"
-            },
-            {
-              "name": "Sư MT tại Lâm Tỳ Ni (3).png",
-              "url": "https://drive.google.com/uc?id=1vlhLSCEklzyO5ZrP8BNzHdbUvJcFUe3E",
-              "thumb": "https://drive.google.com/thumbnail?id=1vlhLSCEklzyO5ZrP8BNzHdbUvJcFUe3E&sz=w600",
-              "desc": "Sư MT tại Lâm Tỳ Ni (3).png"
-            },
-            {
-              "name": "DOZpm9FesT.png",
-              "url": "https://drive.google.com/uc?id=1R-g8Yt96QHSyMF1HtvN25axGfXUlDIk8",
-              "thumb": "https://drive.google.com/thumbnail?id=1R-g8Yt96QHSyMF1HtvN25axGfXUlDIk8&sz=w600",
-              "desc": "DOZpm9FesT.png"
-            },
-            {
-              "name": "Chùa Cam 2.png",
-              "url": "https://drive.google.com/uc?id=1ZfB4ujYguqqRdC2J1OyXJiNaqrdXJ0jz",
-              "thumb": "https://drive.google.com/thumbnail?id=1ZfB4ujYguqqRdC2J1OyXJiNaqrdXJ0jz&sz=w600",
-              "desc": "Chùa Cam 2.png"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Cam kết",
-      "albums": [
-        {
-          "name": "TNV",
-          "count": 6,
-          "cover": "https://drive.google.com/thumbnail?id=15Jy9JYB3a3NidP4m-JBUkn4Z2Y3cYjmn&sz=w600",
-          "photos": [
-            {
-              "name": "EtE8BreioK.png",
-              "url": "https://drive.google.com/uc?id=15Jy9JYB3a3NidP4m-JBUkn4Z2Y3cYjmn",
-              "thumb": "https://drive.google.com/thumbnail?id=15Jy9JYB3a3NidP4m-JBUkn4Z2Y3cYjmn&sz=w600",
-              "desc": "EtE8BreioK.png"
-            },
-            {
-              "name": "QpM9cNsatg.png",
-              "url": "https://drive.google.com/uc?id=1E5T_juyar_eWhpoHuNqq3phx1nVyq4jt",
-              "thumb": "https://drive.google.com/thumbnail?id=1E5T_juyar_eWhpoHuNqq3phx1nVyq4jt&sz=w600",
-              "desc": "QpM9cNsatg.png"
-            },
-            {
-              "name": "MpqTFi7ie6.png",
-              "url": "https://drive.google.com/uc?id=1SSvxoKp5j8wQq3CEC3mwNQCyo66g6nel",
-              "thumb": "https://drive.google.com/thumbnail?id=1SSvxoKp5j8wQq3CEC3mwNQCyo66g6nel&sz=w600",
-              "desc": "MpqTFi7ie6.png"
-            },
-            {
-              "name": "2VztuU0l66.png",
-              "url": "https://drive.google.com/uc?id=1hS4H50AUe3aLWiXM5hfI4j5G75zRJn6p",
-              "thumb": "https://drive.google.com/thumbnail?id=1hS4H50AUe3aLWiXM5hfI4j5G75zRJn6p&sz=w600",
-              "desc": "2VztuU0l66.png"
-            },
-            {
-              "name": "mlxhn7rzct.png",
-              "url": "https://drive.google.com/uc?id=1OtRYpib70vYcHMah8kjg36HV7m3ngxYN",
-              "thumb": "https://drive.google.com/thumbnail?id=1OtRYpib70vYcHMah8kjg36HV7m3ngxYN&sz=w600",
-              "desc": "mlxhn7rzct.png"
-            },
-            {
-              "name": "532533635_23887338747615112_970794777148254669_n.jpg",
-              "url": "https://drive.google.com/uc?id=1-7eBeYfSdzQ3HhpHMEnh7S21kodEcjhu",
-              "thumb": "https://drive.google.com/thumbnail?id=1-7eBeYfSdzQ3HhpHMEnh7S21kodEcjhu&sz=w600",
-              "desc": "532533635_23887338747615112_970794777148254669_n.jpg"
+              "name": "Chùa Cam 11-2025 2.png",
+              "url": "https://drive.google.com/uc?id=1FEqJ0ZoA0X_IFj-AgNB7T8VlEiOaUV97",
+              "thumb": "https://drive.google.com/thumbnail?id=1FEqJ0ZoA0X_IFj-AgNB7T8VlEiOaUV97&sz=w600",
+              "desc": "Chùa Cam 11-2025 2.png"
             }
           ]
         }
@@ -334,158 +107,237 @@
       "name": "Người khác",
       "albums": [
         {
-          "name": "Tâm 32 cái muỗng",
-          "count": 2,
-          "cover": "https://drive.google.com/thumbnail?id=1wOevsSzvML7CeWPT4-mGkmMdWbpoJo5U&sz=w600",
+          "name": "Pháp Hỷ",
+          "count": 1,
+          "cover": "https://drive.google.com/thumbnail?id=1sJnweeg4cddbUFp2I6O2CSrb6qqAXVLK&sz=w600",
           "photos": [
             {
-              "name": "Trước khu đất tạm trú ĐOÀN sư MT 3-2026.png",
-              "url": "https://drive.google.com/uc?id=1wOevsSzvML7CeWPT4-mGkmMdWbpoJo5U",
-              "thumb": "https://drive.google.com/thumbnail?id=1wOevsSzvML7CeWPT4-mGkmMdWbpoJo5U&sz=w600",
-              "desc": "Trước khu đất tạm trú ĐOÀN sư MT 3-2026.png"
-            },
-            {
-              "name": "JuIc5K9ucM.png",
-              "url": "https://drive.google.com/uc?id=1A74RJqtnzjfwL8mdZYGP0yGAnfFFAz4o",
-              "thumb": "https://drive.google.com/thumbnail?id=1A74RJqtnzjfwL8mdZYGP0yGAnfFFAz4o&sz=w600",
-              "desc": "JuIc5K9ucM.png"
+              "name": "00Vw7zDaBZ.png",
+              "url": "https://drive.google.com/uc?id=1sJnweeg4cddbUFp2I6O2CSrb6qqAXVLK",
+              "thumb": "https://drive.google.com/thumbnail?id=1sJnweeg4cddbUFp2I6O2CSrb6qqAXVLK&sz=w600",
+              "desc": "00Vw7zDaBZ.png"
             }
           ]
         },
         {
           "name": "Sư OK",
           "count": 4,
-          "cover": "https://drive.google.com/thumbnail?id=1t7ZS9x1JSy88KoDGxNObpc3PRAD5RZJX&sz=w600",
+          "cover": "https://drive.google.com/thumbnail?id=1yqAYrHfBMfUyofkQ4kVIOQ9vL3X5qaRG&sz=w600",
           "photos": [
             {
               "name": "Sư OK (2).png",
-              "url": "https://drive.google.com/uc?id=1t7ZS9x1JSy88KoDGxNObpc3PRAD5RZJX",
-              "thumb": "https://drive.google.com/thumbnail?id=1t7ZS9x1JSy88KoDGxNObpc3PRAD5RZJX&sz=w600",
+              "url": "https://drive.google.com/uc?id=1yqAYrHfBMfUyofkQ4kVIOQ9vL3X5qaRG",
+              "thumb": "https://drive.google.com/thumbnail?id=1yqAYrHfBMfUyofkQ4kVIOQ9vL3X5qaRG&sz=w600",
               "desc": "Sư OK (2).png"
             },
             {
               "name": "Sư OK (3).png",
-              "url": "https://drive.google.com/uc?id=1-H9Z34aOxWkEAb4fwVPU8wxs2Ah1eBS9",
-              "thumb": "https://drive.google.com/thumbnail?id=1-H9Z34aOxWkEAb4fwVPU8wxs2Ah1eBS9&sz=w600",
+              "url": "https://drive.google.com/uc?id=1jSD_0gUEWYPpUgs9g6Lm5H0fmT8WbQnw",
+              "thumb": "https://drive.google.com/thumbnail?id=1jSD_0gUEWYPpUgs9g6Lm5H0fmT8WbQnw&sz=w600",
               "desc": "Sư OK (3).png"
             },
             {
               "name": "Sư OK (1).png",
-              "url": "https://drive.google.com/uc?id=1uYj6Fqy9dnaG8Wt6d5SK0V3ZwdhgFCqj",
-              "thumb": "https://drive.google.com/thumbnail?id=1uYj6Fqy9dnaG8Wt6d5SK0V3ZwdhgFCqj&sz=w600",
+              "url": "https://drive.google.com/uc?id=1GTR6sEbrfgVniXHKyApGtW9_p5dpZM_H",
+              "thumb": "https://drive.google.com/thumbnail?id=1GTR6sEbrfgVniXHKyApGtW9_p5dpZM_H&sz=w600",
               "desc": "Sư OK (1).png"
             },
             {
               "name": "Sư Ok vì luôn dơ ngòn tay OK.png",
-              "url": "https://drive.google.com/uc?id=1vvhf7CrDnko7oM53Ou2My-cxG1fppMKj",
-              "thumb": "https://drive.google.com/thumbnail?id=1vvhf7CrDnko7oM53Ou2My-cxG1fppMKj&sz=w600",
+              "url": "https://drive.google.com/uc?id=1vbiMbvb35NWhPSMG7XidOBxbeX8TmBYa",
+              "thumb": "https://drive.google.com/thumbnail?id=1vbiMbvb35NWhPSMG7XidOBxbeX8TmBYa&sz=w600",
               "desc": "Sư Ok vì luôn dơ ngòn tay OK.png"
             }
           ]
         },
         {
-          "name": "Sư cô Nhuận Hải",
-          "count": 6,
-          "cover": "https://drive.google.com/thumbnail?id=1yh22oW8VItXbPJmgl2xNz8iold87svhw&sz=w600",
+          "name": "Ảnh",
+          "count": 12,
+          "cover": "https://drive.google.com/thumbnail?id=1iJbmc2SJ91BdmcCF0fjxiRLR86rZWh50&sz=w600",
           "photos": [
             {
-              "name": "Sư cô Nhuận Hải bên ngoài khu tạm trú 3-2026 (1).png",
-              "url": "https://drive.google.com/uc?id=1yh22oW8VItXbPJmgl2xNz8iold87svhw",
-              "thumb": "https://drive.google.com/thumbnail?id=1yh22oW8VItXbPJmgl2xNz8iold87svhw&sz=w600",
-              "desc": "Sư cô Nhuận Hải bên ngoài khu tạm trú 3-2026 (1).png"
+              "name": "YTB TCK tu gieo duyên 7 ngày 3-2026.webp",
+              "url": "https://drive.google.com/uc?id=1iJbmc2SJ91BdmcCF0fjxiRLR86rZWh50",
+              "thumb": "https://drive.google.com/thumbnail?id=1iJbmc2SJ91BdmcCF0fjxiRLR86rZWh50&sz=w600",
+              "desc": "YTB TCK tu gieo duyên 7 ngày 3-2026.webp"
             },
             {
-              "name": "Sư cô Nhuận Hải bên ngoài khu tạm trú 3-2026 (2).png",
-              "url": "https://drive.google.com/uc?id=1I2E8J8uKCFtIUXP-kxJ7bOMVOYG8jXeN",
-              "thumb": "https://drive.google.com/thumbnail?id=1I2E8J8uKCFtIUXP-kxJ7bOMVOYG8jXeN&sz=w600",
-              "desc": "Sư cô Nhuận Hải bên ngoài khu tạm trú 3-2026 (2).png"
+              "name": "Quản lý chùa Cam- Lâm tỳ ni.png",
+              "url": "https://drive.google.com/uc?id=1x5TlkLk5-_TmGCK8N6jx-e0JHvI3sxAi",
+              "thumb": "https://drive.google.com/thumbnail?id=1x5TlkLk5-_TmGCK8N6jx-e0JHvI3sxAi&sz=w600",
+              "desc": "Quản lý chùa Cam- Lâm tỳ ni.png"
             },
             {
-              "name": "Sư cô và Ytber Nepal 1-2026.png",
-              "url": "https://drive.google.com/uc?id=121Nh_lJv3uicwep-qaTPp16WRlg_eZH3",
-              "thumb": "https://drive.google.com/thumbnail?id=121Nh_lJv3uicwep-qaTPp16WRlg_eZH3&sz=w600",
-              "desc": "Sư cô và Ytber Nepal 1-2026.png"
+              "name": "Quản lý chùa Cam- Lâm tỳ ni 2.png",
+              "url": "https://drive.google.com/uc?id=1jrm1pXJGmF4SNinz9tD27-htoSKtiy-B",
+              "thumb": "https://drive.google.com/thumbnail?id=1jrm1pXJGmF4SNinz9tD27-htoSKtiy-B&sz=w600",
+              "desc": "Quản lý chùa Cam- Lâm tỳ ni 2.png"
             },
             {
-              "name": "Sư cô và sư Minh Tuệ tại chùa cam.png",
-              "url": "https://drive.google.com/uc?id=1EYI_174LsF5ofd5CmL_U6ft9iAMPbgpV",
-              "thumb": "https://drive.google.com/thumbnail?id=1EYI_174LsF5ofd5CmL_U6ft9iAMPbgpV&sz=w600",
-              "desc": "Sư cô và sư Minh Tuệ tại chùa cam.png"
+              "name": "Xuân Thắng Minh Giác.png",
+              "url": "https://drive.google.com/uc?id=1GfpwQTojgZ2uJHoLKHaH_iT3Kg1CF1qw",
+              "thumb": "https://drive.google.com/thumbnail?id=1GfpwQTojgZ2uJHoLKHaH_iT3Kg1CF1qw&sz=w600",
+              "desc": "Xuân Thắng Minh Giác.png"
             },
             {
-              "name": "Sư cô Nepal 2-2026.png",
-              "url": "https://drive.google.com/uc?id=1W5ph-tQfvK8X7Q4Z5C6W9I5_-hgSw3rc",
-              "thumb": "https://drive.google.com/thumbnail?id=1W5ph-tQfvK8X7Q4Z5C6W9I5_-hgSw3rc&sz=w600",
-              "desc": "Sư cô Nepal 2-2026.png"
+              "name": "Thái Tâm.png",
+              "url": "https://drive.google.com/uc?id=124SE2YTIONkUZqtG65EuO6O7XFSV1VRQ",
+              "thumb": "https://drive.google.com/thumbnail?id=124SE2YTIONkUZqtG65EuO6O7XFSV1VRQ&sz=w600",
+              "desc": "Thái Tâm.png"
             },
             {
-              "name": "Lâm Tỳ Ni Nepal.png",
-              "url": "https://drive.google.com/uc?id=1M2EV8Rj43nnJRJ4qTh-DXhDnczZWFu7G",
-              "thumb": "https://drive.google.com/thumbnail?id=1M2EV8Rj43nnJRJ4qTh-DXhDnczZWFu7G&sz=w600",
-              "desc": "Lâm Tỳ Ni Nepal.png"
+              "name": "Mẹ sư Chơn Chí tại Nepal.png",
+              "url": "https://drive.google.com/uc?id=1RcIHl4gGKKtDLO_-6TLZQtFszG6HtXR3",
+              "thumb": "https://drive.google.com/thumbnail?id=1RcIHl4gGKKtDLO_-6TLZQtFszG6HtXR3&sz=w600",
+              "desc": "Mẹ sư Chơn Chí tại Nepal.png"
+            },
+            {
+              "name": "Mẹ Chơn Chí.png",
+              "url": "https://drive.google.com/uc?id=17M4vYiUt3vdRpDmYLJ80P2G4l3oMqu9Q",
+              "thumb": "https://drive.google.com/thumbnail?id=17M4vYiUt3vdRpDmYLJ80P2G4l3oMqu9Q&sz=w600",
+              "desc": "Mẹ Chơn Chí.png"
+            },
+            {
+              "name": "Những nguoif đi theo ĐOÀN (1).png",
+              "url": "https://drive.google.com/uc?id=1Fu6RcIUBb0G8UFVJ8dWd0VMP4VStNxM9",
+              "thumb": "https://drive.google.com/thumbnail?id=1Fu6RcIUBb0G8UFVJ8dWd0VMP4VStNxM9&sz=w600",
+              "desc": "Những nguoif đi theo ĐOÀN (1).png"
+            },
+            {
+              "name": "Những nguoif đi theo ĐOÀN (2).png",
+              "url": "https://drive.google.com/uc?id=1Kxir0YR7gBXqEbm9jpRf37phTFVscaKD",
+              "thumb": "https://drive.google.com/thumbnail?id=1Kxir0YR7gBXqEbm9jpRf37phTFVscaKD&sz=w600",
+              "desc": "Những nguoif đi theo ĐOÀN (2).png"
+            },
+            {
+              "name": "Bà chủ nhà xác - Gần Bồ Đề Đạo TRàng Ấn Đô.jpg",
+              "url": "https://drive.google.com/uc?id=1xuvzNBMs9rqB4Dm5tjz0DebflGST0NfC",
+              "thumb": "https://drive.google.com/thumbnail?id=1xuvzNBMs9rqB4Dm5tjz0DebflGST0NfC&sz=w600",
+              "desc": "Bà chủ nhà xác - Gần Bồ Đề Đạo TRàng Ấn Đô.jpg"
+            },
+            {
+              "name": "Chị Hằng (béo) Con chú Hải (1).png",
+              "url": "https://drive.google.com/uc?id=1j8iAL7rgQnTyKMgA39kXHya4vcoQAFJ_",
+              "thumb": "https://drive.google.com/thumbnail?id=1j8iAL7rgQnTyKMgA39kXHya4vcoQAFJ_&sz=w600",
+              "desc": "Chị Hằng (béo) Con chú Hải (1).png"
+            },
+            {
+              "name": "Chị Hằng (béo) Con chú Hải (2).png",
+              "url": "https://drive.google.com/uc?id=1-mSPvOrZb6gRP1raCzItvop0ZCl9wLoD",
+              "thumb": "https://drive.google.com/thumbnail?id=1-mSPvOrZb6gRP1raCzItvop0ZCl9wLoD&sz=w600",
+              "desc": "Chị Hằng (béo) Con chú Hải (2).png"
             }
           ]
         },
         {
-          "name": "Pháp Hỷ",
-          "count": 1,
-          "cover": "https://drive.google.com/thumbnail?id=18grB8iwW0hXbqOWQqcPo1XZVxsN4Xefk&sz=w600",
+          "name": "Tâm 32 cái muỗng",
+          "count": 2,
+          "cover": "https://drive.google.com/thumbnail?id=1XYmnQAwFXu_FAa_rJnaeVRvuCxO6v3j8&sz=w600",
           "photos": [
             {
-              "name": "00Vw7zDaBZ.png",
-              "url": "https://drive.google.com/uc?id=18grB8iwW0hXbqOWQqcPo1XZVxsN4Xefk",
-              "thumb": "https://drive.google.com/thumbnail?id=18grB8iwW0hXbqOWQqcPo1XZVxsN4Xefk&sz=w600",
-              "desc": "00Vw7zDaBZ.png"
-            }
-          ]
-        },
-        {
-          "name": "Chị Quế",
-          "count": 3,
-          "cover": "https://drive.google.com/thumbnail?id=1ysctFRDPV-blzibBbZo71xEHHjVsENEG&sz=w600",
-          "photos": [
-            {
-              "name": "Chị Quế tại Lâm tỳ ni Nepal.png",
-              "url": "https://drive.google.com/uc?id=1ysctFRDPV-blzibBbZo71xEHHjVsENEG",
-              "thumb": "https://drive.google.com/thumbnail?id=1ysctFRDPV-blzibBbZo71xEHHjVsENEG&sz=w600",
-              "desc": "Chị Quế tại Lâm tỳ ni Nepal.png"
+              "name": "Trước khu đất tạm trú ĐOÀN sư MT 3-2026.png",
+              "url": "https://drive.google.com/uc?id=1XYmnQAwFXu_FAa_rJnaeVRvuCxO6v3j8",
+              "thumb": "https://drive.google.com/thumbnail?id=1XYmnQAwFXu_FAa_rJnaeVRvuCxO6v3j8&sz=w600",
+              "desc": "Trước khu đất tạm trú ĐOÀN sư MT 3-2026.png"
             },
             {
-              "name": "Chị Quế tại Lâm tỳ ni.png",
-              "url": "https://drive.google.com/uc?id=1YCNJjtsRxzDpC9w_fZsoNqLTOwYSdlYk",
-              "thumb": "https://drive.google.com/thumbnail?id=1YCNJjtsRxzDpC9w_fZsoNqLTOwYSdlYk&sz=w600",
-              "desc": "Chị Quế tại Lâm tỳ ni.png"
-            },
-            {
-              "name": "Tại nhà chú Hải.png",
-              "url": "https://drive.google.com/uc?id=1726USBGTOdjKkzenJwkzNCscylPev9Ag",
-              "thumb": "https://drive.google.com/thumbnail?id=1726USBGTOdjKkzenJwkzNCscylPev9Ag&sz=w600",
-              "desc": "Tại nhà chú Hải.png"
+              "name": "JuIc5K9ucM.png",
+              "url": "https://drive.google.com/uc?id=1uQ7gegal0d9garrNuraBkFMWHK2maeyB",
+              "thumb": "https://drive.google.com/thumbnail?id=1uQ7gegal0d9garrNuraBkFMWHK2maeyB&sz=w600",
+              "desc": "JuIc5K9ucM.png"
             }
           ]
         },
         {
           "name": "Diễn viên ẤN ĐỘ",
           "count": 3,
-          "cover": "https://drive.google.com/thumbnail?id=1qHkKZQIE7xmgX1iQwugr27nUZ000Ka2w&sz=w600",
+          "cover": "https://drive.google.com/thumbnail?id=1Ydr1Lkt7IFmA5ScvBw1dUIiBMxj1rNkh&sz=w600",
           "photos": [
             {
               "name": "Diễn viên ẤN ĐỘ 7-2025.jpg",
-              "url": "https://drive.google.com/uc?id=1qHkKZQIE7xmgX1iQwugr27nUZ000Ka2w",
-              "thumb": "https://drive.google.com/thumbnail?id=1qHkKZQIE7xmgX1iQwugr27nUZ000Ka2w&sz=w600",
+              "url": "https://drive.google.com/uc?id=1Ydr1Lkt7IFmA5ScvBw1dUIiBMxj1rNkh",
+              "thumb": "https://drive.google.com/thumbnail?id=1Ydr1Lkt7IFmA5ScvBw1dUIiBMxj1rNkh&sz=w600",
               "desc": "Diễn viên ẤN ĐỘ 7-2025.jpg"
             },
             {
               "name": "Diễn viên ẤN ĐỘ 7-2025.png",
-              "url": "https://drive.google.com/uc?id=1Vp2oPdOhDjngg0GF5t-f6LifVFAIoDbP",
-              "thumb": "https://drive.google.com/thumbnail?id=1Vp2oPdOhDjngg0GF5t-f6LifVFAIoDbP&sz=w600",
+              "url": "https://drive.google.com/uc?id=1on2nSk5vGLejdRHOM4IZWP2MT6O1_MkZ",
+              "thumb": "https://drive.google.com/thumbnail?id=1on2nSk5vGLejdRHOM4IZWP2MT6O1_MkZ&sz=w600",
               "desc": "Diễn viên ẤN ĐỘ 7-2025.png"
             },
             {
               "name": "DV ẤN ĐỘ.png",
-              "url": "https://drive.google.com/uc?id=169JkqdBs-41Z6CWZv1ZqyxX_Pc59Y5qO",
-              "thumb": "https://drive.google.com/thumbnail?id=169JkqdBs-41Z6CWZv1ZqyxX_Pc59Y5qO&sz=w600",
+              "url": "https://drive.google.com/uc?id=1FnyrCYv7yMNLc6VKBYRxElX0E4GJJlL_",
+              "thumb": "https://drive.google.com/thumbnail?id=1FnyrCYv7yMNLc6VKBYRxElX0E4GJJlL_&sz=w600",
               "desc": "DV ẤN ĐỘ.png"
+            }
+          ]
+        },
+        {
+          "name": "Sư cô Nhuận Hải",
+          "count": 6,
+          "cover": "https://drive.google.com/thumbnail?id=1fz0zD0DdeQbCr2KgycEpvj0TEvJfMRe5&sz=w600",
+          "photos": [
+            {
+              "name": "Sư cô Nhuận Hải bên ngoài khu tạm trú 3-2026 (1).png",
+              "url": "https://drive.google.com/uc?id=1fz0zD0DdeQbCr2KgycEpvj0TEvJfMRe5",
+              "thumb": "https://drive.google.com/thumbnail?id=1fz0zD0DdeQbCr2KgycEpvj0TEvJfMRe5&sz=w600",
+              "desc": "Sư cô Nhuận Hải bên ngoài khu tạm trú 3-2026 (1).png"
+            },
+            {
+              "name": "Sư cô Nhuận Hải bên ngoài khu tạm trú 3-2026 (2).png",
+              "url": "https://drive.google.com/uc?id=1vw7YEPiAAM7lhwg207NBGWS-xi7eHvDQ",
+              "thumb": "https://drive.google.com/thumbnail?id=1vw7YEPiAAM7lhwg207NBGWS-xi7eHvDQ&sz=w600",
+              "desc": "Sư cô Nhuận Hải bên ngoài khu tạm trú 3-2026 (2).png"
+            },
+            {
+              "name": "Sư cô và Ytber Nepal 1-2026.png",
+              "url": "https://drive.google.com/uc?id=1Z1p31fQFrU5ta8FnJHO1rhvAVq8L3TAx",
+              "thumb": "https://drive.google.com/thumbnail?id=1Z1p31fQFrU5ta8FnJHO1rhvAVq8L3TAx&sz=w600",
+              "desc": "Sư cô và Ytber Nepal 1-2026.png"
+            },
+            {
+              "name": "Sư cô và sư Minh Tuệ tại chùa cam.png",
+              "url": "https://drive.google.com/uc?id=1OOGbGjrGTPCHSHcPd1N1faeDGPVMflTx",
+              "thumb": "https://drive.google.com/thumbnail?id=1OOGbGjrGTPCHSHcPd1N1faeDGPVMflTx&sz=w600",
+              "desc": "Sư cô và sư Minh Tuệ tại chùa cam.png"
+            },
+            {
+              "name": "Sư cô Nepal 2-2026.png",
+              "url": "https://drive.google.com/uc?id=1o1sPrtV5itKHTDUxP1c7rgUM0_puVCI7",
+              "thumb": "https://drive.google.com/thumbnail?id=1o1sPrtV5itKHTDUxP1c7rgUM0_puVCI7&sz=w600",
+              "desc": "Sư cô Nepal 2-2026.png"
+            },
+            {
+              "name": "Lâm Tỳ Ni Nepal.png",
+              "url": "https://drive.google.com/uc?id=1bBvXDPis48iyJVBCay8BDlpEV0E-VImO",
+              "thumb": "https://drive.google.com/thumbnail?id=1bBvXDPis48iyJVBCay8BDlpEV0E-VImO&sz=w600",
+              "desc": "Lâm Tỳ Ni Nepal.png"
+            }
+          ]
+        },
+        {
+          "name": "Chị Quế",
+          "count": 3,
+          "cover": "https://drive.google.com/thumbnail?id=1wEXixru4O2gxGvkJbfM2hA9JJ8DgoyXX&sz=w600",
+          "photos": [
+            {
+              "name": "Chị Quế tại Lâm tỳ ni Nepal.png",
+              "url": "https://drive.google.com/uc?id=1wEXixru4O2gxGvkJbfM2hA9JJ8DgoyXX",
+              "thumb": "https://drive.google.com/thumbnail?id=1wEXixru4O2gxGvkJbfM2hA9JJ8DgoyXX&sz=w600",
+              "desc": "Chị Quế tại Lâm tỳ ni Nepal.png"
+            },
+            {
+              "name": "Chị Quế tại Lâm tỳ ni.png",
+              "url": "https://drive.google.com/uc?id=1YF2mIGP_Fq3j0i0aUL4GGEjQKipw6PWX",
+              "thumb": "https://drive.google.com/thumbnail?id=1YF2mIGP_Fq3j0i0aUL4GGEjQKipw6PWX&sz=w600",
+              "desc": "Chị Quế tại Lâm tỳ ni.png"
+            },
+            {
+              "name": "Tại nhà chú Hải.png",
+              "url": "https://drive.google.com/uc?id=1ffHytFgpbcAU1PB2TNcyyEDL2P9EKQT6",
+              "thumb": "https://drive.google.com/thumbnail?id=1ffHytFgpbcAU1PB2TNcyyEDL2P9EKQT6&sz=w600",
+              "desc": "Tại nhà chú Hải.png"
             }
           ]
         }
@@ -496,36 +348,531 @@
       "albums": []
     },
     {
-      "name": "Tạm trú",
+      "name": "ĐOÀN",
       "albums": [
         {
-          "name": "Nepal",
-          "count": 0,
-          "cover": null,
-          "photos": []
-        },
-        {
           "name": "Ấn Độ",
-          "count": 3,
-          "cover": "https://drive.google.com/thumbnail?id=1oGK78J4vwiQIXriHjbW6P9fdPFXHdgY3&sz=w600",
+          "count": 28,
+          "cover": "https://drive.google.com/thumbnail?id=1XymxPG4L4mOZeEXC092JZr1em7KKrk5i&sz=w600",
           "photos": [
             {
               "name": "Khu tạm trú 9-2025 Ấn ĐỘ.png",
-              "url": "https://drive.google.com/uc?id=1oGK78J4vwiQIXriHjbW6P9fdPFXHdgY3",
-              "thumb": "https://drive.google.com/thumbnail?id=1oGK78J4vwiQIXriHjbW6P9fdPFXHdgY3&sz=w600",
+              "url": "https://drive.google.com/uc?id=1XymxPG4L4mOZeEXC092JZr1em7KKrk5i",
+              "thumb": "https://drive.google.com/thumbnail?id=1XymxPG4L4mOZeEXC092JZr1em7KKrk5i&sz=w600",
               "desc": "Khu tạm trú 9-2025 Ấn ĐỘ.png"
             },
             {
               "name": "uIuFPkGDfO.png",
-              "url": "https://drive.google.com/uc?id=1glntLH8Le5jiG9FCDUJE82l1dL0GTwS9",
-              "thumb": "https://drive.google.com/thumbnail?id=1glntLH8Le5jiG9FCDUJE82l1dL0GTwS9&sz=w600",
+              "url": "https://drive.google.com/uc?id=1qcsAMJdJDXhb4n8RLyIhasPJyWKTVZOR",
+              "thumb": "https://drive.google.com/thumbnail?id=1qcsAMJdJDXhb4n8RLyIhasPJyWKTVZOR&sz=w600",
               "desc": "uIuFPkGDfO.png"
             },
             {
               "name": "Vườn xoài.png",
-              "url": "https://drive.google.com/uc?id=18l58vIqW6NoGD5pXeaR-D_46kESzPEdM",
-              "thumb": "https://drive.google.com/thumbnail?id=18l58vIqW6NoGD5pXeaR-D_46kESzPEdM&sz=w600",
+              "url": "https://drive.google.com/uc?id=12ZrhF355VA-BWAxcec6frIzB6ORBCPpD",
+              "thumb": "https://drive.google.com/thumbnail?id=12ZrhF355VA-BWAxcec6frIzB6ORBCPpD&sz=w600",
               "desc": "Vườn xoài.png"
+            },
+            {
+              "name": "Tại nhà chú Hải, sau khi rời Bệnh viện Nhà xác (2).png",
+              "url": "https://drive.google.com/uc?id=1FXIj6hcNZsqGG6DBXQAeS1XEDV9rHiqZ",
+              "thumb": "https://drive.google.com/thumbnail?id=1FXIj6hcNZsqGG6DBXQAeS1XEDV9rHiqZ&sz=w600",
+              "desc": "Tại nhà chú Hải, sau khi rời Bệnh viện Nhà xác (2).png"
+            },
+            {
+              "name": "Tại nhà chú Hải, sau khi rời Bệnh viện Nhà xác (3).png",
+              "url": "https://drive.google.com/uc?id=18qtcBpoSi8zHykI7ivqgntaz3Zoy20BR",
+              "thumb": "https://drive.google.com/thumbnail?id=18qtcBpoSi8zHykI7ivqgntaz3Zoy20BR&sz=w600",
+              "desc": "Tại nhà chú Hải, sau khi rời Bệnh viện Nhà xác (3).png"
+            },
+            {
+              "name": "Tại nhà chú Hải, sau khi rời Bệnh viện Nhà xác (4).png",
+              "url": "https://drive.google.com/uc?id=1yPSmvqMVNEOQzyM4uATY8dGf6goUoV7L",
+              "thumb": "https://drive.google.com/thumbnail?id=1yPSmvqMVNEOQzyM4uATY8dGf6goUoV7L&sz=w600",
+              "desc": "Tại nhà chú Hải, sau khi rời Bệnh viện Nhà xác (4).png"
+            },
+            {
+              "name": "Tại nhà chú Hải, sau khi rời Bệnh viện Nhà xác (5).png",
+              "url": "https://drive.google.com/uc?id=1l0hp5WvQX4t-WBVDL9P9xNQpW82K866W",
+              "thumb": "https://drive.google.com/thumbnail?id=1l0hp5WvQX4t-WBVDL9P9xNQpW82K866W&sz=w600",
+              "desc": "Tại nhà chú Hải, sau khi rời Bệnh viện Nhà xác (5).png"
+            },
+            {
+              "name": "Tại nhà chú Hải, sau khi rời Bệnh viện Nhà xác (1).png",
+              "url": "https://drive.google.com/uc?id=1_oCn1Bji_AJMyg3x9MYThRP6PwPlCWWu",
+              "thumb": "https://drive.google.com/thumbnail?id=1_oCn1Bji_AJMyg3x9MYThRP6PwPlCWWu&sz=w600",
+              "desc": "Tại nhà chú Hải, sau khi rời Bệnh viện Nhà xác (1).png"
+            },
+            {
+              "name": "Chỗ ĐOÀN ở do Natra thuê (3).png",
+              "url": "https://drive.google.com/uc?id=1zbXZQDH4D_Q4e9IygvTEKhXeU9FnY-PX",
+              "thumb": "https://drive.google.com/thumbnail?id=1zbXZQDH4D_Q4e9IygvTEKhXeU9FnY-PX&sz=w600",
+              "desc": "Chỗ ĐOÀN ở do Natra thuê (3).png"
+            },
+            {
+              "name": "Nhà chú Hải, ẤN ĐỘ (2).png",
+              "url": "https://drive.google.com/uc?id=1s2J2KZB0tN3l6EzGHqLTLxmk_-it4u01",
+              "thumb": "https://drive.google.com/thumbnail?id=1s2J2KZB0tN3l6EzGHqLTLxmk_-it4u01&sz=w600",
+              "desc": "Nhà chú Hải, ẤN ĐỘ (2).png"
+            },
+            {
+              "name": "Nhà chú Hải, ẤN ĐỘ (1).png",
+              "url": "https://drive.google.com/uc?id=1Q8ha4FSavcvJN9KLY4Iq7MXdGGNsIH__",
+              "thumb": "https://drive.google.com/thumbnail?id=1Q8ha4FSavcvJN9KLY4Iq7MXdGGNsIH__&sz=w600",
+              "desc": "Nhà chú Hải, ẤN ĐỘ (1).png"
+            },
+            {
+              "name": "Bên trong và bên ngoài Trường học ANAND (2).png",
+              "url": "https://drive.google.com/uc?id=1wDCHAq3zVYISG9y_7-SdiwTQfWeXz6PK",
+              "thumb": "https://drive.google.com/thumbnail?id=1wDCHAq3zVYISG9y_7-SdiwTQfWeXz6PK&sz=w600",
+              "desc": "Bên trong và bên ngoài Trường học ANAND (2).png"
+            },
+            {
+              "name": "Bên trong và bên ngoài Trường học ANAND (4).png",
+              "url": "https://drive.google.com/uc?id=1_f6dmpstgZPVnx18AgIUpZFXO7dyF95p",
+              "thumb": "https://drive.google.com/thumbnail?id=1_f6dmpstgZPVnx18AgIUpZFXO7dyF95p&sz=w600",
+              "desc": "Bên trong và bên ngoài Trường học ANAND (4).png"
+            },
+            {
+              "name": "Bên trong và bên ngoài Trường học ANAND (1).png",
+              "url": "https://drive.google.com/uc?id=1oL4h47gKn-vDkjNPEvQn-9tTHdH9VFO1",
+              "thumb": "https://drive.google.com/thumbnail?id=1oL4h47gKn-vDkjNPEvQn-9tTHdH9VFO1&sz=w600",
+              "desc": "Bên trong và bên ngoài Trường học ANAND (1).png"
+            },
+            {
+              "name": "Bên trong và bên ngoài Trường học ANAND (3).png",
+              "url": "https://drive.google.com/uc?id=1lEtaNny2ZtdZ9zMaOHbpikTXY8prcByL",
+              "thumb": "https://drive.google.com/thumbnail?id=1lEtaNny2ZtdZ9zMaOHbpikTXY8prcByL&sz=w600",
+              "desc": "Bên trong và bên ngoài Trường học ANAND (3).png"
+            },
+            {
+              "name": "Chỗ ĐOÀN ở do Natra thuê (1).png",
+              "url": "https://drive.google.com/uc?id=1Gg8LpCcmQB-qziJdAKxM7z4neQIvmKcb",
+              "thumb": "https://drive.google.com/thumbnail?id=1Gg8LpCcmQB-qziJdAKxM7z4neQIvmKcb&sz=w600",
+              "desc": "Chỗ ĐOÀN ở do Natra thuê (1).png"
+            },
+            {
+              "name": "Chỗ ĐOÀN ở do Natra thuê (2).png",
+              "url": "https://drive.google.com/uc?id=11W7HmwlnLSwOPFY8w0TwZZEyFZHZ1hLu",
+              "thumb": "https://drive.google.com/thumbnail?id=11W7HmwlnLSwOPFY8w0TwZZEyFZHZ1hLu&sz=w600",
+              "desc": "Chỗ ĐOÀN ở do Natra thuê (2).png"
+            },
+            {
+              "name": "Chỗ ĐOÀN ở do Natra thuê (1) 1.png",
+              "url": "https://drive.google.com/uc?id=1otMH_7iKUXGPCz_cS2SCi_N5TonVvdvX",
+              "thumb": "https://drive.google.com/thumbnail?id=1otMH_7iKUXGPCz_cS2SCi_N5TonVvdvX&sz=w600",
+              "desc": "Chỗ ĐOÀN ở do Natra thuê (1) 1.png"
+            },
+            {
+              "name": "Chỗ ĐOÀN ở do Natra thuê (2) 1.png",
+              "url": "https://drive.google.com/uc?id=1A94E-YoV37DlsaAF5r0ShXLRcKfZ1kUF",
+              "thumb": "https://drive.google.com/thumbnail?id=1A94E-YoV37DlsaAF5r0ShXLRcKfZ1kUF&sz=w600",
+              "desc": "Chỗ ĐOÀN ở do Natra thuê (2) 1.png"
+            },
+            {
+              "name": "Bv Nhà Xác ĐOÀN ở lại sau khi từ Sri_Lanka (6).png",
+              "url": "https://drive.google.com/uc?id=1-uxVNQWm_OTBG3AWIAGVfWtmGCn981hw",
+              "thumb": "https://drive.google.com/thumbnail?id=1-uxVNQWm_OTBG3AWIAGVfWtmGCn981hw&sz=w600",
+              "desc": "Bv Nhà Xác ĐOÀN ở lại sau khi từ Sri_Lanka (6).png"
+            },
+            {
+              "name": "Bv Nhà Xác ĐOÀN ở lại sau khi từ Sri_Lanka (4).png",
+              "url": "https://drive.google.com/uc?id=1Wg5rIzDrVZByufSTlJwP9GhJQb3F3pd9",
+              "thumb": "https://drive.google.com/thumbnail?id=1Wg5rIzDrVZByufSTlJwP9GhJQb3F3pd9&sz=w600",
+              "desc": "Bv Nhà Xác ĐOÀN ở lại sau khi từ Sri_Lanka (4).png"
+            },
+            {
+              "name": "Bv Nhà Xác ĐOÀN ở lại sau khi từ Sri_Lanka (5).png",
+              "url": "https://drive.google.com/uc?id=1MokxLnKuTtWBdr3iczzDEpQ_kv2ADU2t",
+              "thumb": "https://drive.google.com/thumbnail?id=1MokxLnKuTtWBdr3iczzDEpQ_kv2ADU2t&sz=w600",
+              "desc": "Bv Nhà Xác ĐOÀN ở lại sau khi từ Sri_Lanka (5).png"
+            },
+            {
+              "name": "Bv Nhà Xác ĐOÀN ở lại sau khi từ Sri_Lanka (3).png",
+              "url": "https://drive.google.com/uc?id=1PxXcaZhncfky_xCIpSr6YUFn4C1BhoAs",
+              "thumb": "https://drive.google.com/thumbnail?id=1PxXcaZhncfky_xCIpSr6YUFn4C1BhoAs&sz=w600",
+              "desc": "Bv Nhà Xác ĐOÀN ở lại sau khi từ Sri_Lanka (3).png"
+            },
+            {
+              "name": "Bv Nhà Xác ĐOÀN ở lại sau khi từ Sri_Lanka (9).png",
+              "url": "https://drive.google.com/uc?id=1nti075IIdouXiRgNTiyAoXtd60s5ppjo",
+              "thumb": "https://drive.google.com/thumbnail?id=1nti075IIdouXiRgNTiyAoXtd60s5ppjo&sz=w600",
+              "desc": "Bv Nhà Xác ĐOÀN ở lại sau khi từ Sri_Lanka (9).png"
+            },
+            {
+              "name": "Bv Nhà Xác ĐOÀN ở lại sau khi từ Sri_Lanka (7).png",
+              "url": "https://drive.google.com/uc?id=1Axq9BGT9inNLd_NkI5zK12fGVpT8qImn",
+              "thumb": "https://drive.google.com/thumbnail?id=1Axq9BGT9inNLd_NkI5zK12fGVpT8qImn&sz=w600",
+              "desc": "Bv Nhà Xác ĐOÀN ở lại sau khi từ Sri_Lanka (7).png"
+            },
+            {
+              "name": "Bv Nhà Xác ĐOÀN ở lại sau khi từ Sri_Lanka (8).png",
+              "url": "https://drive.google.com/uc?id=1SpEqANW7yljpOp32z8Eo-Zc6AmW1k62G",
+              "thumb": "https://drive.google.com/thumbnail?id=1SpEqANW7yljpOp32z8Eo-Zc6AmW1k62G&sz=w600",
+              "desc": "Bv Nhà Xác ĐOÀN ở lại sau khi từ Sri_Lanka (8).png"
+            },
+            {
+              "name": "Bv Nhà Xác ĐOÀN ở lại sau khi từ Sri_Lanka (2).png",
+              "url": "https://drive.google.com/uc?id=1JfTiNf3iS4inO-FVafQf8wRSw5PdHh6t",
+              "thumb": "https://drive.google.com/thumbnail?id=1JfTiNf3iS4inO-FVafQf8wRSw5PdHh6t&sz=w600",
+              "desc": "Bv Nhà Xác ĐOÀN ở lại sau khi từ Sri_Lanka (2).png"
+            },
+            {
+              "name": "Bv Nhà Xác ĐOÀN ở lại sau khi từ Sri_Lanka (1).png",
+              "url": "https://drive.google.com/uc?id=1Pmi89_Z8ItccfvTVbHjjubw-ounbe8Wk",
+              "thumb": "https://drive.google.com/thumbnail?id=1Pmi89_Z8ItccfvTVbHjjubw-ounbe8Wk&sz=w600",
+              "desc": "Bv Nhà Xác ĐOÀN ở lại sau khi từ Sri_Lanka (1).png"
+            }
+          ]
+        },
+        {
+          "name": "Ảnh",
+          "count": 10,
+          "cover": "https://drive.google.com/thumbnail?id=1v3pz5MjuA9-pH5nvskHsOK4NK21btlsL&sz=w600",
+          "photos": [
+            {
+              "name": "Các THẦY ở bãi rác nhặt vải - Nepal.png",
+              "url": "https://drive.google.com/uc?id=1v3pz5MjuA9-pH5nvskHsOK4NK21btlsL",
+              "thumb": "https://drive.google.com/thumbnail?id=1v3pz5MjuA9-pH5nvskHsOK4NK21btlsL&sz=w600",
+              "desc": "Các THẦY ở bãi rác nhặt vải - Nepal.png"
+            },
+            {
+              "name": "May vá trong đêm.png",
+              "url": "https://drive.google.com/uc?id=1Dv38ylEgin-bS-dxy1LRCNrwwnncqDKU",
+              "thumb": "https://drive.google.com/thumbnail?id=1Dv38ylEgin-bS-dxy1LRCNrwwnncqDKU&sz=w600",
+              "desc": "May vá trong đêm.png"
+            },
+            {
+              "name": "Sư từ Canada và các THẦY trong khu đền Pashupatinath - Nepal.png",
+              "url": "https://drive.google.com/uc?id=107k_hpbIv3RJ9mwlizKvOuAPR9gOyHuB",
+              "thumb": "https://drive.google.com/thumbnail?id=107k_hpbIv3RJ9mwlizKvOuAPR9gOyHuB&sz=w600",
+              "desc": "Sư từ Canada và các THẦY trong khu đền Pashupatinath - Nepal.png"
+            },
+            {
+              "name": "BkP4AI1vNr.png",
+              "url": "https://drive.google.com/uc?id=1oaD1V816cy6_xDmbh16CuPzHA6lHeO0n",
+              "thumb": "https://drive.google.com/thumbnail?id=1oaD1V816cy6_xDmbh16CuPzHA6lHeO0n&sz=w600",
+              "desc": "BkP4AI1vNr.png"
+            },
+            {
+              "name": "Malaysia.png",
+              "url": "https://drive.google.com/uc?id=1p1vS7pqbLlh8gj2aHgOrNutj7VYYjtna",
+              "thumb": "https://drive.google.com/thumbnail?id=1p1vS7pqbLlh8gj2aHgOrNutj7VYYjtna&sz=w600",
+              "desc": "Malaysia.png"
+            },
+            {
+              "name": "Chùa Cam Nepal.png",
+              "url": "https://drive.google.com/uc?id=1zsCLQqIbzhqrUsqM0pN4cF81kDm-AHQa",
+              "thumb": "https://drive.google.com/thumbnail?id=1zsCLQqIbzhqrUsqM0pN4cF81kDm-AHQa&sz=w600",
+              "desc": "Chùa Cam Nepal.png"
+            },
+            {
+              "name": "Sông Hằng Ấn Độ 10-2025.png",
+              "url": "https://drive.google.com/uc?id=1w4XTfqeZ6ircJmTH4Bqv--ohmOe3kgy6",
+              "thumb": "https://drive.google.com/thumbnail?id=1w4XTfqeZ6ircJmTH4Bqv--ohmOe3kgy6&sz=w600",
+              "desc": "Sông Hằng Ấn Độ 10-2025.png"
+            },
+            {
+              "name": "Hymalaia 10-2025.png",
+              "url": "https://drive.google.com/uc?id=144Hi9PsXs0rsIUGwh8s2H2SeF-XWMXne",
+              "thumb": "https://drive.google.com/thumbnail?id=144Hi9PsXs0rsIUGwh8s2H2SeF-XWMXne&sz=w600",
+              "desc": "Hymalaia 10-2025.png"
+            },
+            {
+              "name": "Sông Hằng Ấn ĐỘ 1 (1).png",
+              "url": "https://drive.google.com/uc?id=1fmcLz0YG0eTK0yv0yE4QDJ8fh_DcZSof",
+              "thumb": "https://drive.google.com/thumbnail?id=1fmcLz0YG0eTK0yv0yE4QDJ8fh_DcZSof&sz=w600",
+              "desc": "Sông Hằng Ấn ĐỘ 1 (1).png"
+            },
+            {
+              "name": "Sông Hằng Ấn ĐỘ 1 (2).png",
+              "url": "https://drive.google.com/uc?id=15mjHjrUwCPWD2gN7zqLwUM2URcuDzVxU",
+              "thumb": "https://drive.google.com/thumbnail?id=15mjHjrUwCPWD2gN7zqLwUM2URcuDzVxU&sz=w600",
+              "desc": "Sông Hằng Ấn ĐỘ 1 (2).png"
+            }
+          ]
+        },
+        {
+          "name": "Cam kết",
+          "count": 40,
+          "cover": "https://drive.google.com/thumbnail?id=1_L6bKWiyfreVR30c6eJFm5ZHLdKlHQmB&sz=w600",
+          "photos": [
+            {
+              "name": "Kv33zWjkBN.png",
+              "url": "https://drive.google.com/uc?id=1_L6bKWiyfreVR30c6eJFm5ZHLdKlHQmB",
+              "thumb": "https://drive.google.com/thumbnail?id=1_L6bKWiyfreVR30c6eJFm5ZHLdKlHQmB&sz=w600",
+              "desc": "Kv33zWjkBN.png"
+            },
+            {
+              "name": "L68Y2de8wI.png",
+              "url": "https://drive.google.com/uc?id=1tYUsZsmZT9CjNdVImuKZHpTAXdkqPvym",
+              "thumb": "https://drive.google.com/thumbnail?id=1tYUsZsmZT9CjNdVImuKZHpTAXdkqPvym&sz=w600",
+              "desc": "L68Y2de8wI.png"
+            },
+            {
+              "name": "TT1JfNqnaF.png",
+              "url": "https://drive.google.com/uc?id=1lryzkij2ZKm0tAxp-kgnnpMjT2YzYiVC",
+              "thumb": "https://drive.google.com/thumbnail?id=1lryzkij2ZKm0tAxp-kgnnpMjT2YzYiVC&sz=w600",
+              "desc": "TT1JfNqnaF.png"
+            },
+            {
+              "name": "4n1mO4XEsC.png",
+              "url": "https://drive.google.com/uc?id=1fEYA8inSyGdAz2L7KLQ8jkCOoDrEE04a",
+              "thumb": "https://drive.google.com/thumbnail?id=1fEYA8inSyGdAz2L7KLQ8jkCOoDrEE04a&sz=w600",
+              "desc": "4n1mO4XEsC.png"
+            },
+            {
+              "name": "EtE8BreioK.png",
+              "url": "https://drive.google.com/uc?id=1QeWQCsSxW0UFGL-XCHcFuT954tzd4lrW",
+              "thumb": "https://drive.google.com/thumbnail?id=1QeWQCsSxW0UFGL-XCHcFuT954tzd4lrW&sz=w600",
+              "desc": "EtE8BreioK.png"
+            },
+            {
+              "name": "QpM9cNsatg.png",
+              "url": "https://drive.google.com/uc?id=17xz_X6t7wqqrwyLUAJzwORYOyPwU9W26",
+              "thumb": "https://drive.google.com/thumbnail?id=17xz_X6t7wqqrwyLUAJzwORYOyPwU9W26&sz=w600",
+              "desc": "QpM9cNsatg.png"
+            },
+            {
+              "name": "MpqTFi7ie6.png",
+              "url": "https://drive.google.com/uc?id=1iAEwln4aPMM8JahdY_APQ8dRKSqsgI6E",
+              "thumb": "https://drive.google.com/thumbnail?id=1iAEwln4aPMM8JahdY_APQ8dRKSqsgI6E&sz=w600",
+              "desc": "MpqTFi7ie6.png"
+            },
+            {
+              "name": "2VztuU0l66.png",
+              "url": "https://drive.google.com/uc?id=1Ub_o2vTuq_BJQWuf8XN35Oe9Ui94wGw5",
+              "thumb": "https://drive.google.com/thumbnail?id=1Ub_o2vTuq_BJQWuf8XN35Oe9Ui94wGw5&sz=w600",
+              "desc": "2VztuU0l66.png"
+            },
+            {
+              "name": "mlxhn7rzct.png",
+              "url": "https://drive.google.com/uc?id=1OCPXoz3bsUfoFVQQvj-bb9UXSEw6b1pz",
+              "thumb": "https://drive.google.com/thumbnail?id=1OCPXoz3bsUfoFVQQvj-bb9UXSEw6b1pz&sz=w600",
+              "desc": "mlxhn7rzct.png"
+            },
+            {
+              "name": "532533635_23887338747615112_970794777148254669_n.jpg",
+              "url": "https://drive.google.com/uc?id=177D01MnCuquVN7xXYh_XfSZDAkBcWirm",
+              "thumb": "https://drive.google.com/thumbnail?id=177D01MnCuquVN7xXYh_XfSZDAkBcWirm&sz=w600",
+              "desc": "532533635_23887338747615112_970794777148254669_n.jpg"
+            },
+            {
+              "name": "01.jpg",
+              "url": "https://drive.google.com/uc?id=1Qdf9bUFJtZW-6daCPdSDdw5pUlFHym7v",
+              "thumb": "https://drive.google.com/thumbnail?id=1Qdf9bUFJtZW-6daCPdSDdw5pUlFHym7v&sz=w600",
+              "desc": "01.jpg"
+            },
+            {
+              "name": "531388612_23879473925068261_3381680941531164790_n.jpg",
+              "url": "https://drive.google.com/uc?id=11ykbvcXxT9DHm7rFQVcrk8i6_Ic2LwtV",
+              "thumb": "https://drive.google.com/thumbnail?id=11ykbvcXxT9DHm7rFQVcrk8i6_Ic2LwtV&sz=w600",
+              "desc": "531388612_23879473925068261_3381680941531164790_n.jpg"
+            },
+            {
+              "name": "530936771_23879474211734899_5687001989512688984_n.jpg",
+              "url": "https://drive.google.com/uc?id=1fRqmmzOwOsLdNNaWLDbX3ofLS9lfPasb",
+              "thumb": "https://drive.google.com/thumbnail?id=1fRqmmzOwOsLdNNaWLDbX3ofLS9lfPasb&sz=w600",
+              "desc": "530936771_23879474211734899_5687001989512688984_n.jpg"
+            },
+            {
+              "name": "532116148_23879474245068229_1546792132550567999_n.jpg",
+              "url": "https://drive.google.com/uc?id=1mryiqiuIqk72Y9edy7azVnzfkoaTF35e",
+              "thumb": "https://drive.google.com/thumbnail?id=1mryiqiuIqk72Y9edy7azVnzfkoaTF35e&sz=w600",
+              "desc": "532116148_23879474245068229_1546792132550567999_n.jpg"
+            },
+            {
+              "name": "531223928_23879474585068195_4262972751609403141_n.jpg",
+              "url": "https://drive.google.com/uc?id=1z1gOKtGEIdKT_VQa9Sxddy27wXPfMv-N",
+              "thumb": "https://drive.google.com/thumbnail?id=1z1gOKtGEIdKT_VQa9Sxddy27wXPfMv-N&sz=w600",
+              "desc": "531223928_23879474585068195_4262972751609403141_n.jpg"
+            },
+            {
+              "name": "531370863_23879474595068194_882464999677173347_n.jpg",
+              "url": "https://drive.google.com/uc?id=1LkDC7-E65emk1LdGJF_FUFFS2NCfB2pF",
+              "thumb": "https://drive.google.com/thumbnail?id=1LkDC7-E65emk1LdGJF_FUFFS2NCfB2pF&sz=w600",
+              "desc": "531370863_23879474595068194_882464999677173347_n.jpg"
+            },
+            {
+              "name": "531976208_23879474868401500_3049582176671940147_n.jpg",
+              "url": "https://drive.google.com/uc?id=1HHpmrU_AOzYG0DqlBNVkckUR7oZE-0hZ",
+              "thumb": "https://drive.google.com/thumbnail?id=1HHpmrU_AOzYG0DqlBNVkckUR7oZE-0hZ&sz=w600",
+              "desc": "531976208_23879474868401500_3049582176671940147_n.jpg"
+            },
+            {
+              "name": "531606309_23879474878401499_427932697429223712_n.jpg",
+              "url": "https://drive.google.com/uc?id=1mWqp6xepaGr8TMqgi7s0JQUdBca0aycv",
+              "thumb": "https://drive.google.com/thumbnail?id=1mWqp6xepaGr8TMqgi7s0JQUdBca0aycv&sz=w600",
+              "desc": "531606309_23879474878401499_427932697429223712_n.jpg"
+            },
+            {
+              "name": "533100596_23879475141734806_3271823022096924274_n.jpg",
+              "url": "https://drive.google.com/uc?id=1FtImP1n4nTUh6m7n0dWGDFlRbBIGPxr9",
+              "thumb": "https://drive.google.com/thumbnail?id=1FtImP1n4nTUh6m7n0dWGDFlRbBIGPxr9&sz=w600",
+              "desc": "533100596_23879475141734806_3271823022096924274_n.jpg"
+            },
+            {
+              "name": "533237389_23879475158401471_5190514586755163123_n.jpg",
+              "url": "https://drive.google.com/uc?id=1jeZ-6-xrXrpR01f-cgCPKCaFBfhAHD19",
+              "thumb": "https://drive.google.com/thumbnail?id=1jeZ-6-xrXrpR01f-cgCPKCaFBfhAHD19&sz=w600",
+              "desc": "533237389_23879475158401471_5190514586755163123_n.jpg"
+            },
+            {
+              "name": "533022018_23879475391734781_2192194960044322898_n.jpg",
+              "url": "https://drive.google.com/uc?id=1ObEUPgqwXsgZ0B3Nnsk6PfjhCXAGVbcG",
+              "thumb": "https://drive.google.com/thumbnail?id=1ObEUPgqwXsgZ0B3Nnsk6PfjhCXAGVbcG&sz=w600",
+              "desc": "533022018_23879475391734781_2192194960044322898_n.jpg"
+            },
+            {
+              "name": "504382670_23879475415068112_3723334008036521952_n.jpg",
+              "url": "https://drive.google.com/uc?id=1Th09WE9c-SFpWdKeSMQI0IoQkkjiCJTy",
+              "thumb": "https://drive.google.com/thumbnail?id=1Th09WE9c-SFpWdKeSMQI0IoQkkjiCJTy&sz=w600",
+              "desc": "504382670_23879475415068112_3723334008036521952_n.jpg"
+            },
+            {
+              "name": "533370952_23879475671734753_62362513204913865_n.jpg",
+              "url": "https://drive.google.com/uc?id=1dYSTDeevWS-E-govSTpvycytA3zn_NGA",
+              "thumb": "https://drive.google.com/thumbnail?id=1dYSTDeevWS-E-govSTpvycytA3zn_NGA&sz=w600",
+              "desc": "533370952_23879475671734753_62362513204913865_n.jpg"
+            },
+            {
+              "name": "532203279_23879475681734752_2661012336133977650_n.jpg",
+              "url": "https://drive.google.com/uc?id=1a6UGqrHTd2WlA1HccWrb5DV45NULkV5G",
+              "thumb": "https://drive.google.com/thumbnail?id=1a6UGqrHTd2WlA1HccWrb5DV45NULkV5G&sz=w600",
+              "desc": "532203279_23879475681734752_2661012336133977650_n.jpg"
+            },
+            {
+              "name": "530693973_23879475905068063_299985098883102579_n.jpg",
+              "url": "https://drive.google.com/uc?id=1S1muCA9B2G6e8hbJnCsEXCMtKhY7AHHs",
+              "thumb": "https://drive.google.com/thumbnail?id=1S1muCA9B2G6e8hbJnCsEXCMtKhY7AHHs&sz=w600",
+              "desc": "530693973_23879475905068063_299985098883102579_n.jpg"
+            },
+            {
+              "name": "530880065_23879475935068060_2183177405574419908_n.jpg",
+              "url": "https://drive.google.com/uc?id=13Rqt9ld6no_d3QDroyRncs4yebshCUww",
+              "thumb": "https://drive.google.com/thumbnail?id=13Rqt9ld6no_d3QDroyRncs4yebshCUww&sz=w600",
+              "desc": "530880065_23879475935068060_2183177405574419908_n.jpg"
+            },
+            {
+              "name": "532259445_23879476215068032_7651214657762954625_n.jpg",
+              "url": "https://drive.google.com/uc?id=1mO1wK8Nr2e8Ubj5RmpVOxza9ceBkxySN",
+              "thumb": "https://drive.google.com/thumbnail?id=1mO1wK8Nr2e8Ubj5RmpVOxza9ceBkxySN&sz=w600",
+              "desc": "532259445_23879476215068032_7651214657762954625_n.jpg"
+            },
+            {
+              "name": "533246966_23879476255068028_4517873148079047458_n.jpg",
+              "url": "https://drive.google.com/uc?id=1wwfODdZj8Vsy2HNln8W8M_-LSbX_out0",
+              "thumb": "https://drive.google.com/thumbnail?id=1wwfODdZj8Vsy2HNln8W8M_-LSbX_out0&sz=w600",
+              "desc": "533246966_23879476255068028_4517873148079047458_n.jpg"
+            },
+            {
+              "name": "532219137_23879476485068005_6133424569913318439_n.jpg",
+              "url": "https://drive.google.com/uc?id=1vCh5eo5intRH_xSXbSMNvTson2PZDFoY",
+              "thumb": "https://drive.google.com/thumbnail?id=1vCh5eo5intRH_xSXbSMNvTson2PZDFoY&sz=w600",
+              "desc": "532219137_23879476485068005_6133424569913318439_n.jpg"
+            },
+            {
+              "name": "531370863_23879476498401337_2448023817534991095_n.jpg",
+              "url": "https://drive.google.com/uc?id=1_S3l7qLinkwTv2vG_9evmzZpc-EpwZwm",
+              "thumb": "https://drive.google.com/thumbnail?id=1_S3l7qLinkwTv2vG_9evmzZpc-EpwZwm&sz=w600",
+              "desc": "531370863_23879476498401337_2448023817534991095_n.jpg"
+            },
+            {
+              "name": "531902555_23879476688401318_3370459953875652964_n.jpg",
+              "url": "https://drive.google.com/uc?id=1ylrB19Q3JezhlwwDTjT4y8DQAO5X0aT1",
+              "thumb": "https://drive.google.com/thumbnail?id=1ylrB19Q3JezhlwwDTjT4y8DQAO5X0aT1&sz=w600",
+              "desc": "531902555_23879476688401318_3370459953875652964_n.jpg"
+            },
+            {
+              "name": "533240388_23879476718401315_5046913161758968089_n.jpg",
+              "url": "https://drive.google.com/uc?id=1KfYbZ7PNQU9cqaQt6VyNjUPA_cShKCSy",
+              "thumb": "https://drive.google.com/thumbnail?id=1KfYbZ7PNQU9cqaQt6VyNjUPA_cShKCSy&sz=w600",
+              "desc": "533240388_23879476718401315_5046913161758968089_n.jpg"
+            },
+            {
+              "name": "532942448_23879477015067952_2039966069185814792_n.jpg",
+              "url": "https://drive.google.com/uc?id=1KqBdEpPyHsdfO7sSURREPu_xD9MGBb3Z",
+              "thumb": "https://drive.google.com/thumbnail?id=1KqBdEpPyHsdfO7sSURREPu_xD9MGBb3Z&sz=w600",
+              "desc": "532942448_23879477015067952_2039966069185814792_n.jpg"
+            },
+            {
+              "name": "530857617_23879477028401284_8559524180922986934_n.jpg",
+              "url": "https://drive.google.com/uc?id=1CUzQ-55udJ9-qoFOGQnDsAVMC8S4AcWM",
+              "thumb": "https://drive.google.com/thumbnail?id=1CUzQ-55udJ9-qoFOGQnDsAVMC8S4AcWM&sz=w600",
+              "desc": "530857617_23879477028401284_8559524180922986934_n.jpg"
+            },
+            {
+              "name": "530972738_23879477298401257_3494583981267030147_n.jpg",
+              "url": "https://drive.google.com/uc?id=13K4qzs_dt1Aggqy9x03bY-tw7h5GCbvc",
+              "thumb": "https://drive.google.com/thumbnail?id=13K4qzs_dt1Aggqy9x03bY-tw7h5GCbvc&sz=w600",
+              "desc": "530972738_23879477298401257_3494583981267030147_n.jpg"
+            },
+            {
+              "name": "531460247_23879477311734589_3259556363986361018_n.jpg",
+              "url": "https://drive.google.com/uc?id=1Mah5gsf5ofr8uzuqpfeEBiworv3u8gLo",
+              "thumb": "https://drive.google.com/thumbnail?id=1Mah5gsf5ofr8uzuqpfeEBiworv3u8gLo&sz=w600",
+              "desc": "531460247_23879477311734589_3259556363986361018_n.jpg"
+            },
+            {
+              "name": "533407389_23879477541734566_1020738457030366008_n.jpg",
+              "url": "https://drive.google.com/uc?id=1OuRyPFKcTgwHg4CNjZFgsWc9BJZK0pts",
+              "thumb": "https://drive.google.com/thumbnail?id=1OuRyPFKcTgwHg4CNjZFgsWc9BJZK0pts&sz=w600",
+              "desc": "533407389_23879477541734566_1020738457030366008_n.jpg"
+            },
+            {
+              "name": "533294047_23879477558401231_5549482276622310963_n.jpg",
+              "url": "https://drive.google.com/uc?id=1auyCkfk4SyLhA9jFj2R7kMCOzlzxhK-d",
+              "thumb": "https://drive.google.com/thumbnail?id=1auyCkfk4SyLhA9jFj2R7kMCOzlzxhK-d&sz=w600",
+              "desc": "533294047_23879477558401231_5549482276622310963_n.jpg"
+            },
+            {
+              "name": "531050300_23879477738401213_5560185494512781398_n.jpg",
+              "url": "https://drive.google.com/uc?id=10rKMDXNfTzjyjU7tZMg2IPjz7dMv_AOi",
+              "thumb": "https://drive.google.com/thumbnail?id=10rKMDXNfTzjyjU7tZMg2IPjz7dMv_AOi&sz=w600",
+              "desc": "531050300_23879477738401213_5560185494512781398_n.jpg"
+            },
+            {
+              "name": "530925298_23879477768401210_2972470449433924632_n.jpg",
+              "url": "https://drive.google.com/uc?id=1TAaqn0hluLTvxp0RywuHjHtIa-TI63sN",
+              "thumb": "https://drive.google.com/thumbnail?id=1TAaqn0hluLTvxp0RywuHjHtIa-TI63sN&sz=w600",
+              "desc": "530925298_23879477768401210_2972470449433924632_n.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Nepal",
+          "count": 5,
+          "cover": "https://drive.google.com/thumbnail?id=1cGWjwMvV1BcX-_qR-4CRHpmZQsYJeTLh&sz=w600",
+          "photos": [
+            {
+              "name": "Khu đất có cánh cổng màu xanh - Kathmandu Nepal (2).png",
+              "url": "https://drive.google.com/uc?id=1cGWjwMvV1BcX-_qR-4CRHpmZQsYJeTLh",
+              "thumb": "https://drive.google.com/thumbnail?id=1cGWjwMvV1BcX-_qR-4CRHpmZQsYJeTLh&sz=w600",
+              "desc": "Khu đất có cánh cổng màu xanh - Kathmandu Nepal (2).png"
+            },
+            {
+              "name": "Khu đất có cánh cổng màu xanh - Kathmandu Nepal (1).png",
+              "url": "https://drive.google.com/uc?id=1OjqCeiGNUEXB1PXLizsTXRz9uCPIbj85",
+              "thumb": "https://drive.google.com/thumbnail?id=1OjqCeiGNUEXB1PXLizsTXRz9uCPIbj85&sz=w600",
+              "desc": "Khu đất có cánh cổng màu xanh - Kathmandu Nepal (1).png"
+            },
+            {
+              "name": "7gXpCA1W8l.png",
+              "url": "https://drive.google.com/uc?id=1_tP29vHBx6NJc0MoUoHtiQAyVyEfvDwy",
+              "thumb": "https://drive.google.com/thumbnail?id=1_tP29vHBx6NJc0MoUoHtiQAyVyEfvDwy&sz=w600",
+              "desc": "7gXpCA1W8l.png"
+            },
+            {
+              "name": "KH1y3RKPcn.png",
+              "url": "https://drive.google.com/uc?id=1CzolP9sRXXQV_I-ocwDXPp6e9VoDCVyb",
+              "thumb": "https://drive.google.com/thumbnail?id=1CzolP9sRXXQV_I-ocwDXPp6e9VoDCVyb&sz=w600",
+              "desc": "KH1y3RKPcn.png"
+            },
+            {
+              "name": "Chùa cam.png",
+              "url": "https://drive.google.com/uc?id=1uLBwnV0YBg3nvCittRa3kkGePVFf5FpA",
+              "thumb": "https://drive.google.com/thumbnail?id=1uLBwnV0YBg3nvCittRa3kkGePVFf5FpA&sz=w600",
+              "desc": "Chùa cam.png"
             }
           ]
         }
@@ -537,55 +884,74 @@
         {
           "name": "Đạo Đạt",
           "count": 1,
-          "cover": "https://drive.google.com/thumbnail?id=1mmUes7JYPxgI-axgfiIj6RnrpoieaL-Q&sz=w600",
+          "cover": "https://drive.google.com/thumbnail?id=1h3CNlficb4bJ1RkW7Qs6Y_DLBuy75c5q&sz=w600",
           "photos": [
             {
               "name": "Đạo Đạt 3-2026 Nepal.png",
-              "url": "https://drive.google.com/uc?id=1mmUes7JYPxgI-axgfiIj6RnrpoieaL-Q",
-              "thumb": "https://drive.google.com/thumbnail?id=1mmUes7JYPxgI-axgfiIj6RnrpoieaL-Q&sz=w600",
+              "url": "https://drive.google.com/uc?id=1h3CNlficb4bJ1RkW7Qs6Y_DLBuy75c5q",
+              "thumb": "https://drive.google.com/thumbnail?id=1h3CNlficb4bJ1RkW7Qs6Y_DLBuy75c5q&sz=w600",
               "desc": "Đạo Đạt 3-2026 Nepal.png"
+            }
+          ]
+        },
+        {
+          "name": "Tuệ Trí",
+          "count": 2,
+          "cover": "https://drive.google.com/thumbnail?id=12hExjn1ThpO_Xjp2-7uBhRjGewVVseQM&sz=w600",
+          "photos": [
+            {
+              "name": "Tuệ Trí ở Ấn ĐỘ 8-2025 (2).png",
+              "url": "https://drive.google.com/uc?id=12hExjn1ThpO_Xjp2-7uBhRjGewVVseQM",
+              "thumb": "https://drive.google.com/thumbnail?id=12hExjn1ThpO_Xjp2-7uBhRjGewVVseQM&sz=w600",
+              "desc": "Tuệ Trí ở Ấn ĐỘ 8-2025 (2).png"
+            },
+            {
+              "name": "Tuệ Trí ở Ấn ĐỘ 8-2025 (1).png",
+              "url": "https://drive.google.com/uc?id=1oagDDYaDlv4NqkU2XhEUEhb3ZNd1lZWb",
+              "thumb": "https://drive.google.com/thumbnail?id=1oagDDYaDlv4NqkU2XhEUEhb3ZNd1lZWb&sz=w600",
+              "desc": "Tuệ Trí ở Ấn ĐỘ 8-2025 (1).png"
             }
           ]
         },
         {
           "name": "Vô Sanh",
           "count": 6,
-          "cover": "https://drive.google.com/thumbnail?id=1tklHXRQoa7Ce9T7MLhzqDzKXpGIxpkIp&sz=w600",
+          "cover": "https://drive.google.com/thumbnail?id=1_ohQKLxQ49ovz7mMFrRNvToMiD7SAsW-&sz=w600",
           "photos": [
             {
               "name": "Lấy vợ 2-2026.png",
-              "url": "https://drive.google.com/uc?id=1tklHXRQoa7Ce9T7MLhzqDzKXpGIxpkIp",
-              "thumb": "https://drive.google.com/thumbnail?id=1tklHXRQoa7Ce9T7MLhzqDzKXpGIxpkIp&sz=w600",
+              "url": "https://drive.google.com/uc?id=1_ohQKLxQ49ovz7mMFrRNvToMiD7SAsW-",
+              "thumb": "https://drive.google.com/thumbnail?id=1_ohQKLxQ49ovz7mMFrRNvToMiD7SAsW-&sz=w600",
               "desc": "Lấy vợ 2-2026.png"
             },
             {
               "name": "Lúc còn làm công chức.png",
-              "url": "https://drive.google.com/uc?id=1OHvuces1dD5PToDGEWUXKlA-RrZoWZ8d",
-              "thumb": "https://drive.google.com/thumbnail?id=1OHvuces1dD5PToDGEWUXKlA-RrZoWZ8d&sz=w600",
+              "url": "https://drive.google.com/uc?id=1FWb1fJvScx0ajKSCxMFgnQTWVvJUZSYc",
+              "thumb": "https://drive.google.com/thumbnail?id=1FWb1fJvScx0ajKSCxMFgnQTWVvJUZSYc&sz=w600",
               "desc": "Lúc còn làm công chức.png"
             },
             {
               "name": "Mới đi tu.png",
-              "url": "https://drive.google.com/uc?id=1kQP0TdXqKcTQhH8OG1PYmdMXr-0U4-gf",
-              "thumb": "https://drive.google.com/thumbnail?id=1kQP0TdXqKcTQhH8OG1PYmdMXr-0U4-gf&sz=w600",
+              "url": "https://drive.google.com/uc?id=1xQGEsi2saiVj54mnD1oEw4QfBRZL_zJg",
+              "thumb": "https://drive.google.com/thumbnail?id=1xQGEsi2saiVj54mnD1oEw4QfBRZL_zJg&sz=w600",
               "desc": "Mới đi tu.png"
             },
             {
               "name": "Vô Sanh đi cùng ĐOÀN (1).png",
-              "url": "https://drive.google.com/uc?id=1Cy5o-9oFi9hwqV2tmffkJfmTivZr7k0z",
-              "thumb": "https://drive.google.com/thumbnail?id=1Cy5o-9oFi9hwqV2tmffkJfmTivZr7k0z&sz=w600",
+              "url": "https://drive.google.com/uc?id=1XjBsgfErNmQZ9nQUiORUsOXTvGH34aTQ",
+              "thumb": "https://drive.google.com/thumbnail?id=1XjBsgfErNmQZ9nQUiORUsOXTvGH34aTQ&sz=w600",
               "desc": "Vô Sanh đi cùng ĐOÀN (1).png"
             },
             {
               "name": "Vô Sanh đi cùng ĐOÀN (2).png",
-              "url": "https://drive.google.com/uc?id=10xNgu29nxVhCdm-mfhRpsJXcnZsW_0RI",
-              "thumb": "https://drive.google.com/thumbnail?id=10xNgu29nxVhCdm-mfhRpsJXcnZsW_0RI&sz=w600",
+              "url": "https://drive.google.com/uc?id=1waUEIdG3qnbKKk9Lvnzxl2uCwvAcyjZF",
+              "thumb": "https://drive.google.com/thumbnail?id=1waUEIdG3qnbKKk9Lvnzxl2uCwvAcyjZF&sz=w600",
               "desc": "Vô Sanh đi cùng ĐOÀN (2).png"
             },
             {
               "name": "Vô Sanh đi cùng ĐOÀN (1).jpg",
-              "url": "https://drive.google.com/uc?id=19dt6DFRO0H4vjw56jEi2LvLkbHjSFDjH",
-              "thumb": "https://drive.google.com/thumbnail?id=19dt6DFRO0H4vjw56jEi2LvLkbHjSFDjH&sz=w600",
+              "url": "https://drive.google.com/uc?id=13_EhNHXg9atm-JuI4hp-ht4DtG0BvEmM",
+              "thumb": "https://drive.google.com/thumbnail?id=13_EhNHXg9atm-JuI4hp-ht4DtG0BvEmM&sz=w600",
               "desc": "Vô Sanh đi cùng ĐOÀN (1).jpg"
             }
           ]
@@ -593,74 +959,55 @@
         {
           "name": "Tuệ Tâm",
           "count": 6,
-          "cover": "https://drive.google.com/thumbnail?id=1mYS3l4Hhk0-k9np-Y21LGq8W-6Bvw2K9&sz=w600",
+          "cover": "https://drive.google.com/thumbnail?id=151GJ0-Wa2o_gjuoCy-urFMsDjFs_VTex&sz=w600",
           "photos": [
             {
               "name": "Tri Tâm cùng cha mẹ vào tu lần 3 - Nepal 3-2026.png",
-              "url": "https://drive.google.com/uc?id=1mYS3l4Hhk0-k9np-Y21LGq8W-6Bvw2K9",
-              "thumb": "https://drive.google.com/thumbnail?id=1mYS3l4Hhk0-k9np-Y21LGq8W-6Bvw2K9&sz=w600",
+              "url": "https://drive.google.com/uc?id=151GJ0-Wa2o_gjuoCy-urFMsDjFs_VTex",
+              "thumb": "https://drive.google.com/thumbnail?id=151GJ0-Wa2o_gjuoCy-urFMsDjFs_VTex&sz=w600",
               "desc": "Tri Tâm cùng cha mẹ vào tu lần 3 - Nepal 3-2026.png"
             },
             {
               "name": "Bệnh viện Nhà xác Bồ Đề Đạo Tràng.png",
-              "url": "https://drive.google.com/uc?id=1PXUts9LHLeNSEpGjZwlSUkoZ1tE8Glbd",
-              "thumb": "https://drive.google.com/thumbnail?id=1PXUts9LHLeNSEpGjZwlSUkoZ1tE8Glbd&sz=w600",
+              "url": "https://drive.google.com/uc?id=1rMaOp3CLAZw79RBaNIZ4cDVJ5Hu7jlBD",
+              "thumb": "https://drive.google.com/thumbnail?id=1rMaOp3CLAZw79RBaNIZ4cDVJ5Hu7jlBD&sz=w600",
               "desc": "Bệnh viện Nhà xác Bồ Đề Đạo Tràng.png"
             },
             {
               "name": "2-2026 Lumbini.png",
-              "url": "https://drive.google.com/uc?id=1jF2G6USvZsa_qAkWzbH3mev7gUSMYpR8",
-              "thumb": "https://drive.google.com/thumbnail?id=1jF2G6USvZsa_qAkWzbH3mev7gUSMYpR8&sz=w600",
+              "url": "https://drive.google.com/uc?id=1u4-YQJUNEfFcxZLYXYzH2Ra0b07CJG-I",
+              "thumb": "https://drive.google.com/thumbnail?id=1u4-YQJUNEfFcxZLYXYzH2Ra0b07CJG-I&sz=w600",
               "desc": "2-2026 Lumbini.png"
             },
             {
               "name": "2-2026 Lumbini 2.png",
-              "url": "https://drive.google.com/uc?id=1KNAk4IQEkqQiNACeDzmycqxWzyG-xMak",
-              "thumb": "https://drive.google.com/thumbnail?id=1KNAk4IQEkqQiNACeDzmycqxWzyG-xMak&sz=w600",
+              "url": "https://drive.google.com/uc?id=1dFCYHd9s5bAxtIqCQTWd3u8ckk97sufV",
+              "thumb": "https://drive.google.com/thumbnail?id=1dFCYHd9s5bAxtIqCQTWd3u8ckk97sufV&sz=w600",
               "desc": "2-2026 Lumbini 2.png"
             },
             {
               "name": "3-2026 Nepal.png",
-              "url": "https://drive.google.com/uc?id=1iySWmL3jxubXgnttv3FsDP006tmrl92r",
-              "thumb": "https://drive.google.com/thumbnail?id=1iySWmL3jxubXgnttv3FsDP006tmrl92r&sz=w600",
+              "url": "https://drive.google.com/uc?id=1N68sUNhwQdGWnRE50jpyAqmI4w8KHfZ-",
+              "thumb": "https://drive.google.com/thumbnail?id=1N68sUNhwQdGWnRE50jpyAqmI4w8KHfZ-&sz=w600",
               "desc": "3-2026 Nepal.png"
             },
             {
               "name": "Tuệ Tâm 7-2025.png",
-              "url": "https://drive.google.com/uc?id=1A-Xlg7P52fPsyNJMe-bJg21I-o3BJzVY",
-              "thumb": "https://drive.google.com/thumbnail?id=1A-Xlg7P52fPsyNJMe-bJg21I-o3BJzVY&sz=w600",
+              "url": "https://drive.google.com/uc?id=1Gn6Y_mmn4C-Kofm9yOowc241UObHtGld",
+              "thumb": "https://drive.google.com/thumbnail?id=1Gn6Y_mmn4C-Kofm9yOowc241UObHtGld&sz=w600",
               "desc": "Tuệ Tâm 7-2025.png"
-            }
-          ]
-        },
-        {
-          "name": "Tuệ Trí",
-          "count": 2,
-          "cover": "https://drive.google.com/thumbnail?id=1-oi2zO1mAbv32O_HhY7UbtuMmWM_YdtD&sz=w600",
-          "photos": [
-            {
-              "name": "Tuệ Trí ở Ấn ĐỘ 8-2025 (2).png",
-              "url": "https://drive.google.com/uc?id=1-oi2zO1mAbv32O_HhY7UbtuMmWM_YdtD",
-              "thumb": "https://drive.google.com/thumbnail?id=1-oi2zO1mAbv32O_HhY7UbtuMmWM_YdtD&sz=w600",
-              "desc": "Tuệ Trí ở Ấn ĐỘ 8-2025 (2).png"
-            },
-            {
-              "name": "Tuệ Trí ở Ấn ĐỘ 8-2025 (1).png",
-              "url": "https://drive.google.com/uc?id=1BJ5mND8hDERuSNT6XZ3EQw4gEB23HhHw",
-              "thumb": "https://drive.google.com/thumbnail?id=1BJ5mND8hDERuSNT6XZ3EQw4gEB23HhHw&sz=w600",
-              "desc": "Tuệ Trí ở Ấn ĐỘ 8-2025 (1).png"
             }
           ]
         },
         {
           "name": "Phổ Minh",
           "count": 1,
-          "cover": "https://drive.google.com/thumbnail?id=1li8dLCxsTHprZ70LzlS4cA6kK9DhVPZF&sz=w600",
+          "cover": "https://drive.google.com/thumbnail?id=1QEpaj6rPE6O4eRCfPYgxP-82cerEZLQX&sz=w600",
           "photos": [
             {
               "name": "Phổ Minh 7-2025.png",
-              "url": "https://drive.google.com/uc?id=1li8dLCxsTHprZ70LzlS4cA6kK9DhVPZF",
-              "thumb": "https://drive.google.com/thumbnail?id=1li8dLCxsTHprZ70LzlS4cA6kK9DhVPZF&sz=w600",
+              "url": "https://drive.google.com/uc?id=1QEpaj6rPE6O4eRCfPYgxP-82cerEZLQX",
+              "thumb": "https://drive.google.com/thumbnail?id=1QEpaj6rPE6O4eRCfPYgxP-82cerEZLQX&sz=w600",
               "desc": "Phổ Minh 7-2025.png"
             }
           ]
@@ -668,97 +1015,139 @@
         {
           "name": "Sư Tây",
           "count": 5,
-          "cover": "https://drive.google.com/thumbnail?id=1Ex9ood93I9l_6kpWyT8eB5C2WnaJG2eq&sz=w600",
+          "cover": "https://drive.google.com/thumbnail?id=1mkEFFAmOfmYmYoXjCwMLb08sOO0PVe4g&sz=w600",
           "photos": [
             {
               "name": "10-2025 Ấn Độ (3).png",
-              "url": "https://drive.google.com/uc?id=1Ex9ood93I9l_6kpWyT8eB5C2WnaJG2eq",
-              "thumb": "https://drive.google.com/thumbnail?id=1Ex9ood93I9l_6kpWyT8eB5C2WnaJG2eq&sz=w600",
+              "url": "https://drive.google.com/uc?id=1mkEFFAmOfmYmYoXjCwMLb08sOO0PVe4g",
+              "thumb": "https://drive.google.com/thumbnail?id=1mkEFFAmOfmYmYoXjCwMLb08sOO0PVe4g&sz=w600",
               "desc": "10-2025 Ấn Độ (3).png"
             },
             {
               "name": "10-2025 Ấn Độ (4).png",
-              "url": "https://drive.google.com/uc?id=1sP3mZ4R16FYDIu0W-5RvELPdhfS-j36x",
-              "thumb": "https://drive.google.com/thumbnail?id=1sP3mZ4R16FYDIu0W-5RvELPdhfS-j36x&sz=w600",
+              "url": "https://drive.google.com/uc?id=1WwMRqy3tQj0X-PrwR9K-TU7rTWT-Jpdn",
+              "thumb": "https://drive.google.com/thumbnail?id=1WwMRqy3tQj0X-PrwR9K-TU7rTWT-Jpdn&sz=w600",
               "desc": "10-2025 Ấn Độ (4).png"
             },
             {
               "name": "10-2025 Ấn Độ (5).png",
-              "url": "https://drive.google.com/uc?id=1AzowUWfM30A2pw73U4KKGA67yVYvqqjV",
-              "thumb": "https://drive.google.com/thumbnail?id=1AzowUWfM30A2pw73U4KKGA67yVYvqqjV&sz=w600",
+              "url": "https://drive.google.com/uc?id=1DVrskva8BJx6nLEsH45P9uWbspuMOcwo",
+              "thumb": "https://drive.google.com/thumbnail?id=1DVrskva8BJx6nLEsH45P9uWbspuMOcwo&sz=w600",
               "desc": "10-2025 Ấn Độ (5).png"
             },
             {
               "name": "10-2025 Ấn Độ (1).png",
-              "url": "https://drive.google.com/uc?id=1dl7F0e3-B1VDcYxZkSzW5EgicecYnDYB",
-              "thumb": "https://drive.google.com/thumbnail?id=1dl7F0e3-B1VDcYxZkSzW5EgicecYnDYB&sz=w600",
+              "url": "https://drive.google.com/uc?id=1rwng8NgfgvtYBAUh5iwDoL5C_qcKSMZ7",
+              "thumb": "https://drive.google.com/thumbnail?id=1rwng8NgfgvtYBAUh5iwDoL5C_qcKSMZ7&sz=w600",
               "desc": "10-2025 Ấn Độ (1).png"
             },
             {
               "name": "10-2025 Ấn Độ (2).png",
-              "url": "https://drive.google.com/uc?id=1MaWRCz7pmxSR6IkS5v23fEOAK8-nBPWf",
-              "thumb": "https://drive.google.com/thumbnail?id=1MaWRCz7pmxSR6IkS5v23fEOAK8-nBPWf&sz=w600",
+              "url": "https://drive.google.com/uc?id=1deTCfTR9zTdZaYYiipHE19_I28A7EWOs",
+              "thumb": "https://drive.google.com/thumbnail?id=1deTCfTR9zTdZaYYiipHE19_I28A7EWOs&sz=w600",
               "desc": "10-2025 Ấn Độ (2).png"
             }
           ]
         },
         {
           "name": "Phúc Giác",
-          "count": 9,
-          "cover": "https://drive.google.com/thumbnail?id=15t8UuGi9LU1qVeI7jOOhq6_LcH4jQd_a&sz=w600",
+          "count": 16,
+          "cover": "https://drive.google.com/thumbnail?id=1rYTDXhMaQIA5hZd9rjAfmR9ujZ5RuPwA&sz=w600",
           "photos": [
             {
+              "name": "Phúc Giác tại Tháp Như Ý, Nepal 3-2026 2.png",
+              "url": "https://drive.google.com/uc?id=1rYTDXhMaQIA5hZd9rjAfmR9ujZ5RuPwA",
+              "thumb": "https://drive.google.com/thumbnail?id=1rYTDXhMaQIA5hZd9rjAfmR9ujZ5RuPwA&sz=w600",
+              "desc": "Phúc Giác tại Tháp Như Ý, Nepal 3-2026 2.png"
+            },
+            {
+              "name": "Tháp Như Ý 3-2026 (1).png",
+              "url": "https://drive.google.com/uc?id=1lo0uRnf7eG9z6BvIuD1mwZbLm1FBYFtX",
+              "thumb": "https://drive.google.com/thumbnail?id=1lo0uRnf7eG9z6BvIuD1mwZbLm1FBYFtX&sz=w600",
+              "desc": "Tháp Như Ý 3-2026 (1).png"
+            },
+            {
+              "name": "Tháp Như Ý 3-2026 (2).png",
+              "url": "https://drive.google.com/uc?id=1Qr8CxwrRG2Q0-KCNwpaaHvfdzKQBcuhT",
+              "thumb": "https://drive.google.com/thumbnail?id=1Qr8CxwrRG2Q0-KCNwpaaHvfdzKQBcuhT&sz=w600",
+              "desc": "Tháp Như Ý 3-2026 (2).png"
+            },
+            {
+              "name": "Phúc Giác tại Tháp Như Ý, Nepal 3-2026.png",
+              "url": "https://drive.google.com/uc?id=1PXkEp4shMhExsCapP4f3Q_jMKbXEB3bg",
+              "thumb": "https://drive.google.com/thumbnail?id=1PXkEp4shMhExsCapP4f3Q_jMKbXEB3bg&sz=w600",
+              "desc": "Phúc Giác tại Tháp Như Ý, Nepal 3-2026.png"
+            },
+            {
+              "name": "Tháp Như Ý Kathmandu Nepal.png",
+              "url": "https://drive.google.com/uc?id=1S93G79NCkiiDctR_pufoSOeG3qAdYSwt",
+              "thumb": "https://drive.google.com/thumbnail?id=1S93G79NCkiiDctR_pufoSOeG3qAdYSwt&sz=w600",
+              "desc": "Tháp Như Ý Kathmandu Nepal.png"
+            },
+            {
+              "name": "Khu đất có cổng màu xanh Nepal 3-2026 (1).png",
+              "url": "https://drive.google.com/uc?id=1Yg1ri5SvXi39MfvcQ-jC09NNHOs3owU3",
+              "thumb": "https://drive.google.com/thumbnail?id=1Yg1ri5SvXi39MfvcQ-jC09NNHOs3owU3&sz=w600",
+              "desc": "Khu đất có cổng màu xanh Nepal 3-2026 (1).png"
+            },
+            {
+              "name": "Khu đất có cổng màu xanh Nepal 3-2026 (2).png",
+              "url": "https://drive.google.com/uc?id=1yrnvQqEwUoRTdp4-qYYtGitljWeR9ymf",
+              "thumb": "https://drive.google.com/thumbnail?id=1yrnvQqEwUoRTdp4-qYYtGitljWeR9ymf&sz=w600",
+              "desc": "Khu đất có cổng màu xanh Nepal 3-2026 (2).png"
+            },
+            {
               "name": "594314170_10162122653647843_6416663354172071792_n.jpg",
-              "url": "https://drive.google.com/uc?id=15t8UuGi9LU1qVeI7jOOhq6_LcH4jQd_a",
-              "thumb": "https://drive.google.com/thumbnail?id=15t8UuGi9LU1qVeI7jOOhq6_LcH4jQd_a&sz=w600",
+              "url": "https://drive.google.com/uc?id=1FrgHEdtgx9NZgj2lKA9NniuM7tPJSZ1J",
+              "thumb": "https://drive.google.com/thumbnail?id=1FrgHEdtgx9NZgj2lKA9NniuM7tPJSZ1J&sz=w600",
               "desc": "594314170_10162122653647843_6416663354172071792_n.jpg"
             },
             {
               "name": "Phúc Giác VAR Ytber Lâm-Tỳ-Ni.png",
-              "url": "https://drive.google.com/uc?id=1QKFTgXGZrdIyddYcpka7tlMLWEgw8RFb",
-              "thumb": "https://drive.google.com/thumbnail?id=1QKFTgXGZrdIyddYcpka7tlMLWEgw8RFb&sz=w600",
+              "url": "https://drive.google.com/uc?id=1343lCvQIjXOEPSAinMofQzLDY_o7I6e1",
+              "thumb": "https://drive.google.com/thumbnail?id=1343lCvQIjXOEPSAinMofQzLDY_o7I6e1&sz=w600",
               "desc": "Phúc Giác VAR Ytber Lâm-Tỳ-Ni.png"
             },
             {
               "name": "Ngày mới tới Lâm-Tỳ-Ni - Nepal (1).png",
-              "url": "https://drive.google.com/uc?id=1j_hb4Ggx0fRiHWUSP2ul7y8s8J_UUHjf",
-              "thumb": "https://drive.google.com/thumbnail?id=1j_hb4Ggx0fRiHWUSP2ul7y8s8J_UUHjf&sz=w600",
+              "url": "https://drive.google.com/uc?id=1LdfdMl6cDWPBHeZKPtbtaA8JCBYSFUam",
+              "thumb": "https://drive.google.com/thumbnail?id=1LdfdMl6cDWPBHeZKPtbtaA8JCBYSFUam&sz=w600",
               "desc": "Ngày mới tới Lâm-Tỳ-Ni - Nepal (1).png"
             },
             {
               "name": "Ngày mới tới Lâm-Tỳ-Ni - Nepal (2).png",
-              "url": "https://drive.google.com/uc?id=1updFkv8mOGbDMZuEdHqZizfQUzypkOn5",
-              "thumb": "https://drive.google.com/thumbnail?id=1updFkv8mOGbDMZuEdHqZizfQUzypkOn5&sz=w600",
+              "url": "https://drive.google.com/uc?id=1F8Kk8kYa20l98YQgwkmfKac3gEjb7QvC",
+              "thumb": "https://drive.google.com/thumbnail?id=1F8Kk8kYa20l98YQgwkmfKac3gEjb7QvC&sz=w600",
               "desc": "Ngày mới tới Lâm-Tỳ-Ni - Nepal (2).png"
             },
             {
               "name": "Phúc Giác trong vườn Lộc uyển.png",
-              "url": "https://drive.google.com/uc?id=1uDqKQjBpeFhVCnXUqUqV00IKTEzdaqxq",
-              "thumb": "https://drive.google.com/thumbnail?id=1uDqKQjBpeFhVCnXUqUqV00IKTEzdaqxq&sz=w600",
+              "url": "https://drive.google.com/uc?id=1FwLKXLru4PltxBmvuojgZSGVyCc479Bz",
+              "thumb": "https://drive.google.com/thumbnail?id=1FwLKXLru4PltxBmvuojgZSGVyCc479Bz&sz=w600",
               "desc": "Phúc Giác trong vườn Lộc uyển.png"
             },
             {
               "name": "Phúc Giác và Uyên Chu tại Ấn ĐỘ (1).png",
-              "url": "https://drive.google.com/uc?id=1M3NdHtFXpdJgl5EH-N-9LsncnLsSmNdT",
-              "thumb": "https://drive.google.com/thumbnail?id=1M3NdHtFXpdJgl5EH-N-9LsncnLsSmNdT&sz=w600",
+              "url": "https://drive.google.com/uc?id=1d7lvar-BJa9rlzUc0F0xTQ723Mb4Ncrj",
+              "thumb": "https://drive.google.com/thumbnail?id=1d7lvar-BJa9rlzUc0F0xTQ723Mb4Ncrj&sz=w600",
               "desc": "Phúc Giác và Uyên Chu tại Ấn ĐỘ (1).png"
             },
             {
               "name": "Phúc Giác và Uyên Chu tại Ấn ĐỘ (2).png",
-              "url": "https://drive.google.com/uc?id=11Ly0lBw03DhGF7VmKEKeOEMslLGJntOP",
-              "thumb": "https://drive.google.com/thumbnail?id=11Ly0lBw03DhGF7VmKEKeOEMslLGJntOP&sz=w600",
+              "url": "https://drive.google.com/uc?id=1lbPE3qqq66RpVvKW-AF2egWgu4i_YoSZ",
+              "thumb": "https://drive.google.com/thumbnail?id=1lbPE3qqq66RpVvKW-AF2egWgu4i_YoSZ&sz=w600",
               "desc": "Phúc Giác và Uyên Chu tại Ấn ĐỘ (2).png"
             },
             {
               "name": "Phúc Giác Ấn Độ.png",
-              "url": "https://drive.google.com/uc?id=1xbhXxua8KriF6lGGQhuXw5WZhHoxGRWI",
-              "thumb": "https://drive.google.com/thumbnail?id=1xbhXxua8KriF6lGGQhuXw5WZhHoxGRWI&sz=w600",
+              "url": "https://drive.google.com/uc?id=17RWHZz0V14lWsVlWMbEI1h3F6Z59OuxW",
+              "thumb": "https://drive.google.com/thumbnail?id=17RWHZz0V14lWsVlWMbEI1h3F6Z59OuxW&sz=w600",
               "desc": "Phúc Giác Ấn Độ.png"
             },
             {
               "name": "2025-06-05_152229.jpg",
-              "url": "https://drive.google.com/uc?id=1dgkSpETEzHomPBaYmM3WKXwOovs49hYB",
-              "thumb": "https://drive.google.com/thumbnail?id=1dgkSpETEzHomPBaYmM3WKXwOovs49hYB&sz=w600",
+              "url": "https://drive.google.com/uc?id=1KoCnMSO0kW72hSqIRMqJ4rb1X4-eWn8K",
+              "thumb": "https://drive.google.com/thumbnail?id=1KoCnMSO0kW72hSqIRMqJ4rb1X4-eWn8K&sz=w600",
               "desc": "2025-06-05_152229.jpg"
             }
           ]
@@ -766,111 +1155,178 @@
         {
           "name": "Pháp Đăng",
           "count": 2,
-          "cover": "https://drive.google.com/thumbnail?id=1oxi8rlHB3QXFLGg99exs4Y1Ifs9XzqRm&sz=w600",
+          "cover": "https://drive.google.com/thumbnail?id=1gjLO-i9yLPoln71NFKaI2Bouve05o6Tg&sz=w600",
           "photos": [
             {
               "name": "Pháp Đăng ở Việt Nam 2-2026.png",
-              "url": "https://drive.google.com/uc?id=1oxi8rlHB3QXFLGg99exs4Y1Ifs9XzqRm",
-              "thumb": "https://drive.google.com/thumbnail?id=1oxi8rlHB3QXFLGg99exs4Y1Ifs9XzqRm&sz=w600",
+              "url": "https://drive.google.com/uc?id=1gjLO-i9yLPoln71NFKaI2Bouve05o6Tg",
+              "thumb": "https://drive.google.com/thumbnail?id=1gjLO-i9yLPoln71NFKaI2Bouve05o6Tg&sz=w600",
               "desc": "Pháp Đăng ở Việt Nam 2-2026.png"
             },
             {
               "name": "Pháp Đăng tại cốc sư MT Gia Lai 2-2026.png",
-              "url": "https://drive.google.com/uc?id=1nlYjCbshFVPVBzRHWNP5F1OR9DbXpFGs",
-              "thumb": "https://drive.google.com/thumbnail?id=1nlYjCbshFVPVBzRHWNP5F1OR9DbXpFGs&sz=w600",
+              "url": "https://drive.google.com/uc?id=1yEcsoBAkIKmOtU-m1mpD-br5hsaqRJYW",
+              "thumb": "https://drive.google.com/thumbnail?id=1yEcsoBAkIKmOtU-m1mpD-br5hsaqRJYW&sz=w600",
               "desc": "Pháp Đăng tại cốc sư MT Gia Lai 2-2026.png"
             }
           ]
         },
         {
-          "name": "Minh Tấn",
-          "count": 4,
-          "cover": "https://drive.google.com/thumbnail?id=1PSZxJdujzb5IFnvBRaI9f-Em_3Ljmn5G&sz=w600",
+          "name": "Minh Thông",
+          "count": 10,
+          "cover": "https://drive.google.com/thumbnail?id=1Oobum2OWl0VNXdfTuLC6-4_gyVwEJpKf&sz=w600",
           "photos": [
             {
-              "name": "Nói chuyện với ytb Sỏi, GUgol sau tranh cãi trước cổng khu tạm trú.png",
-              "url": "https://drive.google.com/uc?id=1PSZxJdujzb5IFnvBRaI9f-Em_3Ljmn5G",
-              "thumb": "https://drive.google.com/thumbnail?id=1PSZxJdujzb5IFnvBRaI9f-Em_3Ljmn5G&sz=w600",
-              "desc": "Nói chuyện với ytb Sỏi, GUgol sau tranh cãi trước cổng khu tạm trú.png"
+              "name": "Minh Giải, Minh Hiển về VN gặp Minh Thông, Minh Chơn.png",
+              "url": "https://drive.google.com/uc?id=1Oobum2OWl0VNXdfTuLC6-4_gyVwEJpKf",
+              "thumb": "https://drive.google.com/thumbnail?id=1Oobum2OWl0VNXdfTuLC6-4_gyVwEJpKf&sz=w600",
+              "desc": "Minh Giải, Minh Hiển về VN gặp Minh Thông, Minh Chơn.png"
             },
             {
-              "name": "Minh Tấn đi xe lăn.png",
-              "url": "https://drive.google.com/uc?id=1S6vn6j6M3M6yTTF5raC_4F_6HVun9a0t",
-              "thumb": "https://drive.google.com/thumbnail?id=1S6vn6j6M3M6yTTF5raC_4F_6HVun9a0t&sz=w600",
-              "desc": "Minh Tấn đi xe lăn.png"
+              "name": "Minh Thông, Minh Chơn, Khánh Trí tại VN 3-2026.png",
+              "url": "https://drive.google.com/uc?id=1xCfgyMqGsAxnRnwsU89YMYVNH5Ncmt_g",
+              "thumb": "https://drive.google.com/thumbnail?id=1xCfgyMqGsAxnRnwsU89YMYVNH5Ncmt_g&sz=w600",
+              "desc": "Minh Thông, Minh Chơn, Khánh Trí tại VN 3-2026.png"
             },
             {
-              "name": "Đi xe lăn trong mưa.png",
-              "url": "https://drive.google.com/uc?id=1mfgh2_R44BqAkebbl_cZKbM44J6n10bf",
-              "thumb": "https://drive.google.com/thumbnail?id=1mfgh2_R44BqAkebbl_cZKbM44J6n10bf&sz=w600",
-              "desc": "Đi xe lăn trong mưa.png"
+              "name": "Minh Thông ở VN 3-2026.png",
+              "url": "https://drive.google.com/uc?id=1AkDWE4rCK9ZJyEd3JJnTRQ51caL_Ntu5",
+              "thumb": "https://drive.google.com/thumbnail?id=1AkDWE4rCK9ZJyEd3JJnTRQ51caL_Ntu5&sz=w600",
+              "desc": "Minh Thông ở VN 3-2026.png"
             },
             {
-              "name": "Minh Tấn 6-2025 Ấn ĐỘ.jpg",
-              "url": "https://drive.google.com/uc?id=180Jgnjl24xmehz20WR5bsk2dXZPlaVts",
-              "thumb": "https://drive.google.com/thumbnail?id=180Jgnjl24xmehz20WR5bsk2dXZPlaVts&sz=w600",
-              "desc": "Minh Tấn 6-2025 Ấn ĐỘ.jpg"
+              "name": "Minh Thông Minh Chơn ở VN 3-2026.png",
+              "url": "https://drive.google.com/uc?id=1OAxWMiCW-BTy-hhP4WupwzKtly_lp0C7",
+              "thumb": "https://drive.google.com/thumbnail?id=1OAxWMiCW-BTy-hhP4WupwzKtly_lp0C7&sz=w600",
+              "desc": "Minh Thông Minh Chơn ở VN 3-2026.png"
+            },
+            {
+              "name": "Minh Thông 10-2025 Ấn Độ (1).png",
+              "url": "https://drive.google.com/uc?id=1VwjbFOEu6LCdGR0lU-5H6KJ59leUuECR",
+              "thumb": "https://drive.google.com/thumbnail?id=1VwjbFOEu6LCdGR0lU-5H6KJ59leUuECR&sz=w600",
+              "desc": "Minh Thông 10-2025 Ấn Độ (1).png"
+            },
+            {
+              "name": "Minh Thông 10-2025 Ấn Độ (2).png",
+              "url": "https://drive.google.com/uc?id=16iK8i053m9w2zNvO9-hkiM9TbPprwrhS",
+              "thumb": "https://drive.google.com/thumbnail?id=16iK8i053m9w2zNvO9-hkiM9TbPprwrhS&sz=w600",
+              "desc": "Minh Thông 10-2025 Ấn Độ (2).png"
+            },
+            {
+              "name": "Minh Thông 10-2025 Ấn Độ (3).png",
+              "url": "https://drive.google.com/uc?id=1A9zM6ChKjkmsEeZbfzofLeAPrw49pMsQ",
+              "thumb": "https://drive.google.com/thumbnail?id=1A9zM6ChKjkmsEeZbfzofLeAPrw49pMsQ&sz=w600",
+              "desc": "Minh Thông 10-2025 Ấn Độ (3).png"
+            },
+            {
+              "name": "Minh Thông, Minh Chơn tại Nga 9-2025.png",
+              "url": "https://drive.google.com/uc?id=1B5y8EBYvN6nY-ufhl4Dwp6PzBFHD2QSz",
+              "thumb": "https://drive.google.com/thumbnail?id=1B5y8EBYvN6nY-ufhl4Dwp6PzBFHD2QSz&sz=w600",
+              "desc": "Minh Thông, Minh Chơn tại Nga 9-2025.png"
+            },
+            {
+              "name": "Minh Thông Minh Chơn khất thực tại Nga.png",
+              "url": "https://drive.google.com/uc?id=16ON-wWkGa7KN2SmV5yC82QJ51ICcqxMA",
+              "thumb": "https://drive.google.com/thumbnail?id=16ON-wWkGa7KN2SmV5yC82QJ51ICcqxMA&sz=w600",
+              "desc": "Minh Thông Minh Chơn khất thực tại Nga.png"
+            },
+            {
+              "name": "Minh Thông, Minh Chơn tại Nga 9-2025 2.png",
+              "url": "https://drive.google.com/uc?id=1NmrdKIl2uhTcYBNPdE9Dv3A5DU-VSl6T",
+              "thumb": "https://drive.google.com/thumbnail?id=1NmrdKIl2uhTcYBNPdE9Dv3A5DU-VSl6T&sz=w600",
+              "desc": "Minh Thông, Minh Chơn tại Nga 9-2025 2.png"
             }
           ]
         },
         {
           "name": "Minh Tạng",
           "count": 3,
-          "cover": "https://drive.google.com/thumbnail?id=1CLQwF2bJWadilm3JPocahF-EuwI5ifS2&sz=w600",
+          "cover": "https://drive.google.com/thumbnail?id=12D6D-MqUsTyxZ_hRAju1CLvWMr2zN8ic&sz=w600",
           "photos": [
             {
               "name": "Minh Tạng làm đồ chống, ngủ ngồi 3-2026 (2).png",
-              "url": "https://drive.google.com/uc?id=1CLQwF2bJWadilm3JPocahF-EuwI5ifS2",
-              "thumb": "https://drive.google.com/thumbnail?id=1CLQwF2bJWadilm3JPocahF-EuwI5ifS2&sz=w600",
+              "url": "https://drive.google.com/uc?id=12D6D-MqUsTyxZ_hRAju1CLvWMr2zN8ic",
+              "thumb": "https://drive.google.com/thumbnail?id=12D6D-MqUsTyxZ_hRAju1CLvWMr2zN8ic&sz=w600",
               "desc": "Minh Tạng làm đồ chống, ngủ ngồi 3-2026 (2).png"
             },
             {
               "name": "Minh Tạng làm đồ chống, ngủ ngồi 3-2026 (1).png",
-              "url": "https://drive.google.com/uc?id=1crTMylateCmF7TZsglz6QdgF_rxBoL2b",
-              "thumb": "https://drive.google.com/thumbnail?id=1crTMylateCmF7TZsglz6QdgF_rxBoL2b&sz=w600",
+              "url": "https://drive.google.com/uc?id=1mZu7mDdU90opMKkdKJFp0kB0zUYoqtf1",
+              "thumb": "https://drive.google.com/thumbnail?id=1mZu7mDdU90opMKkdKJFp0kB0zUYoqtf1&sz=w600",
               "desc": "Minh Tạng làm đồ chống, ngủ ngồi 3-2026 (1).png"
             },
             {
               "name": "Minh Tạng An LẠc lúc ở LÀO.png",
-              "url": "https://drive.google.com/uc?id=1Aqo7Zu8ioTLktV7gcnWMPRSiAtBm8aGS",
-              "thumb": "https://drive.google.com/thumbnail?id=1Aqo7Zu8ioTLktV7gcnWMPRSiAtBm8aGS&sz=w600",
+              "url": "https://drive.google.com/uc?id=1OXk_WyV238QT24WCietSdSL9XbuQ56hk",
+              "thumb": "https://drive.google.com/thumbnail?id=1OXk_WyV238QT24WCietSdSL9XbuQ56hk&sz=w600",
               "desc": "Minh Tạng An LẠc lúc ở LÀO.png"
+            }
+          ]
+        },
+        {
+          "name": "Minh Tấn",
+          "count": 4,
+          "cover": "https://drive.google.com/thumbnail?id=1O_SKGBm3Av3XyakwqOl4wH_Q5HUo5fEH&sz=w600",
+          "photos": [
+            {
+              "name": "Nói chuyện với ytb Sỏi, GUgol sau tranh cãi trước cổng khu tạm trú.png",
+              "url": "https://drive.google.com/uc?id=1O_SKGBm3Av3XyakwqOl4wH_Q5HUo5fEH",
+              "thumb": "https://drive.google.com/thumbnail?id=1O_SKGBm3Av3XyakwqOl4wH_Q5HUo5fEH&sz=w600",
+              "desc": "Nói chuyện với ytb Sỏi, GUgol sau tranh cãi trước cổng khu tạm trú.png"
+            },
+            {
+              "name": "Minh Tấn đi xe lăn.png",
+              "url": "https://drive.google.com/uc?id=1KxhYoTuBUI51a8XTCnZ47UDyWHeO_3Yv",
+              "thumb": "https://drive.google.com/thumbnail?id=1KxhYoTuBUI51a8XTCnZ47UDyWHeO_3Yv&sz=w600",
+              "desc": "Minh Tấn đi xe lăn.png"
+            },
+            {
+              "name": "Đi xe lăn trong mưa.png",
+              "url": "https://drive.google.com/uc?id=1N_sZEmXG_9Yk7-6E-rJNr0Av1WBkR5sa",
+              "thumb": "https://drive.google.com/thumbnail?id=1N_sZEmXG_9Yk7-6E-rJNr0Av1WBkR5sa&sz=w600",
+              "desc": "Đi xe lăn trong mưa.png"
+            },
+            {
+              "name": "Minh Tấn 6-2025 Ấn ĐỘ.jpg",
+              "url": "https://drive.google.com/uc?id=1jCAjG2oXzPfXfAkG8y0Kb-Cwc_gqF9j3",
+              "thumb": "https://drive.google.com/thumbnail?id=1jCAjG2oXzPfXfAkG8y0Kb-Cwc_gqF9j3&sz=w600",
+              "desc": "Minh Tấn 6-2025 Ấn ĐỘ.jpg"
             }
           ]
         },
         {
           "name": "Minh Thức",
           "count": 5,
-          "cover": "https://drive.google.com/thumbnail?id=1OCplhn8ZP6VnZ6HksUf4X6h6W97H61eY&sz=w600",
+          "cover": "https://drive.google.com/thumbnail?id=1HHb4Mig6pJQ3-5A5yn0KvL--uJ7qi9BQ&sz=w600",
           "photos": [
             {
               "name": "Bay về Thái Lan 3-2026.jpg",
-              "url": "https://drive.google.com/uc?id=1OCplhn8ZP6VnZ6HksUf4X6h6W97H61eY",
-              "thumb": "https://drive.google.com/thumbnail?id=1OCplhn8ZP6VnZ6HksUf4X6h6W97H61eY&sz=w600",
+              "url": "https://drive.google.com/uc?id=1HHb4Mig6pJQ3-5A5yn0KvL--uJ7qi9BQ",
+              "thumb": "https://drive.google.com/thumbnail?id=1HHb4Mig6pJQ3-5A5yn0KvL--uJ7qi9BQ&sz=w600",
               "desc": "Bay về Thái Lan 3-2026.jpg"
             },
             {
               "name": "Minh Giải, Minh Thức Minh Hiển đi vòng quanh tháp Như Ý, 3-2026.png",
-              "url": "https://drive.google.com/uc?id=1nwvkJPjGPcI9PR44Dpi6r2gqglk-mHiC",
-              "thumb": "https://drive.google.com/thumbnail?id=1nwvkJPjGPcI9PR44Dpi6r2gqglk-mHiC&sz=w600",
+              "url": "https://drive.google.com/uc?id=1I4B0A8YypqNuV6RCFSJof3ZslWZb_R1e",
+              "thumb": "https://drive.google.com/thumbnail?id=1I4B0A8YypqNuV6RCFSJof3ZslWZb_R1e&sz=w600",
               "desc": "Minh Giải, Minh Thức Minh Hiển đi vòng quanh tháp Như Ý, 3-2026.png"
             },
             {
               "name": "Minh Thức lên xe về Lâm-Tỳ-Ni 2-2026 (2).png",
-              "url": "https://drive.google.com/uc?id=1q1AsJOtGCDjkOWLcC5PSZV7SvIfO0uIB",
-              "thumb": "https://drive.google.com/thumbnail?id=1q1AsJOtGCDjkOWLcC5PSZV7SvIfO0uIB&sz=w600",
+              "url": "https://drive.google.com/uc?id=1drXJ0m22RagJr1JLKMFM_MX3_5qgYa9w",
+              "thumb": "https://drive.google.com/thumbnail?id=1drXJ0m22RagJr1JLKMFM_MX3_5qgYa9w&sz=w600",
               "desc": "Minh Thức lên xe về Lâm-Tỳ-Ni 2-2026 (2).png"
             },
             {
               "name": "Minh Thức lên xe về Lâm-Tỳ-Ni 2-2026 (1).png",
-              "url": "https://drive.google.com/uc?id=1o-fv9knhs1IrBxgllBhOktWo3jQiElyL",
-              "thumb": "https://drive.google.com/thumbnail?id=1o-fv9knhs1IrBxgllBhOktWo3jQiElyL&sz=w600",
+              "url": "https://drive.google.com/uc?id=1L8ezBh-9aFwqwL64KI3766B1bf3y5ivf",
+              "thumb": "https://drive.google.com/thumbnail?id=1L8ezBh-9aFwqwL64KI3766B1bf3y5ivf&sz=w600",
               "desc": "Minh Thức lên xe về Lâm-Tỳ-Ni 2-2026 (1).png"
             },
             {
               "name": "Minh Thức 2.png",
-              "url": "https://drive.google.com/uc?id=1K-mpJr62eJU3ldtwzEqnCGSPBfHSfc11",
-              "thumb": "https://drive.google.com/thumbnail?id=1K-mpJr62eJU3ldtwzEqnCGSPBfHSfc11&sz=w600",
+              "url": "https://drive.google.com/uc?id=1gEKEGzIfF4RRzXsYitlLdEiLXr8PTd-p",
+              "thumb": "https://drive.google.com/thumbnail?id=1gEKEGzIfF4RRzXsYitlLdEiLXr8PTd-p&sz=w600",
               "desc": "Minh Thức 2.png"
             }
           ]
@@ -878,325 +1334,264 @@
         {
           "name": "Minh Quang (Khánh Trí)",
           "count": 1,
-          "cover": "https://drive.google.com/thumbnail?id=1iN9XNVxIq0Ma7UpYvntVQuKkGg7MOwx5&sz=w600",
+          "cover": "https://drive.google.com/thumbnail?id=1q47Wv8Vasj4eIWxL3sZZgBENIuNxdK2_&sz=w600",
           "photos": [
             {
               "name": "Thông báo đổi Pháp danh thành Minh Quang.png",
-              "url": "https://drive.google.com/uc?id=1iN9XNVxIq0Ma7UpYvntVQuKkGg7MOwx5",
-              "thumb": "https://drive.google.com/thumbnail?id=1iN9XNVxIq0Ma7UpYvntVQuKkGg7MOwx5&sz=w600",
+              "url": "https://drive.google.com/uc?id=1q47Wv8Vasj4eIWxL3sZZgBENIuNxdK2_",
+              "thumb": "https://drive.google.com/thumbnail?id=1q47Wv8Vasj4eIWxL3sZZgBENIuNxdK2_&sz=w600",
               "desc": "Thông báo đổi Pháp danh thành Minh Quang.png"
-            }
-          ]
-        },
-        {
-          "name": "Minh Hiền",
-          "count": 1,
-          "cover": "https://drive.google.com/thumbnail?id=1rl1-v3vTY0JzUhmuH24XqBf1ZTiEf-LH&sz=w600",
-          "photos": [
-            {
-              "name": "Minh Hiền 3-2026 Nepal.png",
-              "url": "https://drive.google.com/uc?id=1rl1-v3vTY0JzUhmuH24XqBf1ZTiEf-LH",
-              "thumb": "https://drive.google.com/thumbnail?id=1rl1-v3vTY0JzUhmuH24XqBf1ZTiEf-LH&sz=w600",
-              "desc": "Minh Hiền 3-2026 Nepal.png"
-            }
-          ]
-        },
-        {
-          "name": "Minh Thông",
-          "count": 9,
-          "cover": "https://drive.google.com/thumbnail?id=13WAMrwyG3xnOflqMteVrT0IN6B1Gbb7U&sz=w600",
-          "photos": [
-            {
-              "name": "Minh Thông, Minh Chơn, Khánh Trí tại VN 3-2026.png",
-              "url": "https://drive.google.com/uc?id=13WAMrwyG3xnOflqMteVrT0IN6B1Gbb7U",
-              "thumb": "https://drive.google.com/thumbnail?id=13WAMrwyG3xnOflqMteVrT0IN6B1Gbb7U&sz=w600",
-              "desc": "Minh Thông, Minh Chơn, Khánh Trí tại VN 3-2026.png"
-            },
-            {
-              "name": "Minh Thông ở VN 3-2026.png",
-              "url": "https://drive.google.com/uc?id=18SlaSQUAKUkfFSM2t3ULbhIijr3WGLeL",
-              "thumb": "https://drive.google.com/thumbnail?id=18SlaSQUAKUkfFSM2t3ULbhIijr3WGLeL&sz=w600",
-              "desc": "Minh Thông ở VN 3-2026.png"
-            },
-            {
-              "name": "Minh Thông Minh Chơn ở VN 3-2026.png",
-              "url": "https://drive.google.com/uc?id=12Hkv59YjrmLu6qDi_Bcht9JrSXJHyPLF",
-              "thumb": "https://drive.google.com/thumbnail?id=12Hkv59YjrmLu6qDi_Bcht9JrSXJHyPLF&sz=w600",
-              "desc": "Minh Thông Minh Chơn ở VN 3-2026.png"
-            },
-            {
-              "name": "Minh Thông 10-2025 Ấn Độ (1).png",
-              "url": "https://drive.google.com/uc?id=1vcV1Ed_1xSWnbbqKHqh54ECUvJHFhgj-",
-              "thumb": "https://drive.google.com/thumbnail?id=1vcV1Ed_1xSWnbbqKHqh54ECUvJHFhgj-&sz=w600",
-              "desc": "Minh Thông 10-2025 Ấn Độ (1).png"
-            },
-            {
-              "name": "Minh Thông 10-2025 Ấn Độ (2).png",
-              "url": "https://drive.google.com/uc?id=1oPxlMrPZgCOzoI_XarpGUFy82GrtucVW",
-              "thumb": "https://drive.google.com/thumbnail?id=1oPxlMrPZgCOzoI_XarpGUFy82GrtucVW&sz=w600",
-              "desc": "Minh Thông 10-2025 Ấn Độ (2).png"
-            },
-            {
-              "name": "Minh Thông 10-2025 Ấn Độ (3).png",
-              "url": "https://drive.google.com/uc?id=1iafVQpUP0eM9bMGjPDM4Ch7kM3Z0kCOg",
-              "thumb": "https://drive.google.com/thumbnail?id=1iafVQpUP0eM9bMGjPDM4Ch7kM3Z0kCOg&sz=w600",
-              "desc": "Minh Thông 10-2025 Ấn Độ (3).png"
-            },
-            {
-              "name": "Minh Thông, Minh Chơn tại Nga 9-2025.png",
-              "url": "https://drive.google.com/uc?id=1IQJ5RHY8xQue7WEvHhXowP5l1YQbxkRg",
-              "thumb": "https://drive.google.com/thumbnail?id=1IQJ5RHY8xQue7WEvHhXowP5l1YQbxkRg&sz=w600",
-              "desc": "Minh Thông, Minh Chơn tại Nga 9-2025.png"
-            },
-            {
-              "name": "Minh Thông Minh Chơn khất thực tại Nga.png",
-              "url": "https://drive.google.com/uc?id=1ZjV8m44vCAKZXgPY108VdZ31vDA_5dFY",
-              "thumb": "https://drive.google.com/thumbnail?id=1ZjV8m44vCAKZXgPY108VdZ31vDA_5dFY&sz=w600",
-              "desc": "Minh Thông Minh Chơn khất thực tại Nga.png"
-            },
-            {
-              "name": "Minh Thông, Minh Chơn tại Nga 9-2025 2.png",
-              "url": "https://drive.google.com/uc?id=1lIVE8esHNdlHj_6ZtxWASTfhTk0SIQl1",
-              "thumb": "https://drive.google.com/thumbnail?id=1lIVE8esHNdlHj_6ZtxWASTfhTk0SIQl1&sz=w600",
-              "desc": "Minh Thông, Minh Chơn tại Nga 9-2025 2.png"
-            }
-          ]
-        },
-        {
-          "name": "Minh Chơn",
-          "count": 1,
-          "cover": "https://drive.google.com/thumbnail?id=1HHLtHnxpUZKwfhebAvhneYFCSdF-5KTo&sz=w600",
-          "photos": [
-            {
-              "name": "Minh Chơn 1.png",
-              "url": "https://drive.google.com/uc?id=1HHLtHnxpUZKwfhebAvhneYFCSdF-5KTo",
-              "thumb": "https://drive.google.com/thumbnail?id=1HHLtHnxpUZKwfhebAvhneYFCSdF-5KTo&sz=w600",
-              "desc": "Minh Chơn 1.png"
-            }
-          ]
-        },
-        {
-          "name": "Minh Giải",
-          "count": 3,
-          "cover": "https://drive.google.com/thumbnail?id=1X_67Yn4D1SR1s22d-m_dKpEFl-2vH9qc&sz=w600",
-          "photos": [
-            {
-              "name": "Minh Giải, Minh Hiển về đến VN an toàn 2.png",
-              "url": "https://drive.google.com/uc?id=1X_67Yn4D1SR1s22d-m_dKpEFl-2vH9qc",
-              "thumb": "https://drive.google.com/thumbnail?id=1X_67Yn4D1SR1s22d-m_dKpEFl-2vH9qc&sz=w600",
-              "desc": "Minh Giải, Minh Hiển về đến VN an toàn 2.png"
-            },
-            {
-              "name": "Minh Giải, Minh Hiển về đến VN an toàn.png",
-              "url": "https://drive.google.com/uc?id=19QjDxsP1gxs-1000-wVY-OCK7DBAWEBX",
-              "thumb": "https://drive.google.com/thumbnail?id=19QjDxsP1gxs-1000-wVY-OCK7DBAWEBX&sz=w600",
-              "desc": "Minh Giải, Minh Hiển về đến VN an toàn.png"
-            },
-            {
-              "name": "Minh Giải 3-2026 Nepal.png",
-              "url": "https://drive.google.com/uc?id=102DxlS_1xW8YUs8x_Ct9c0YtaVC8sRh4",
-              "thumb": "https://drive.google.com/thumbnail?id=102DxlS_1xW8YUs8x_Ct9c0YtaVC8sRh4&sz=w600",
-              "desc": "Minh Giải 3-2026 Nepal.png"
-            }
-          ]
-        },
-        {
-          "name": "Chiếu Đức",
-          "count": 1,
-          "cover": "https://drive.google.com/thumbnail?id=1WuxGFNOAs8X-9wm2Q4UE_M7SDQK8fgm6&sz=w600",
-          "photos": [
-            {
-              "name": "Chiếu Đức, AN LẠC.png",
-              "url": "https://drive.google.com/uc?id=1WuxGFNOAs8X-9wm2Q4UE_M7SDQK8fgm6",
-              "thumb": "https://drive.google.com/thumbnail?id=1WuxGFNOAs8X-9wm2Q4UE_M7SDQK8fgm6&sz=w600",
-              "desc": "Chiếu Đức, AN LẠC.png"
-            }
-          ]
-        },
-        {
-          "name": "Minh Dược",
-          "count": 6,
-          "cover": "https://drive.google.com/thumbnail?id=12mCW5xBdFo4MuaDj0pXX7gEp2Sqvleuh&sz=w600",
-          "photos": [
-            {
-              "name": "Tháp Như Ý 3-2026.png",
-              "url": "https://drive.google.com/uc?id=12mCW5xBdFo4MuaDj0pXX7gEp2Sqvleuh",
-              "thumb": "https://drive.google.com/thumbnail?id=12mCW5xBdFo4MuaDj0pXX7gEp2Sqvleuh&sz=w600",
-              "desc": "Tháp Như Ý 3-2026.png"
-            },
-            {
-              "name": "Minh Dược Minh Hiển 3-2026.png",
-              "url": "https://drive.google.com/uc?id=1jx8qHmrc8Mir4T93GA2UfTrZ-OpWxK1b",
-              "thumb": "https://drive.google.com/thumbnail?id=1jx8qHmrc8Mir4T93GA2UfTrZ-OpWxK1b&sz=w600",
-              "desc": "Minh Dược Minh Hiển 3-2026.png"
-            },
-            {
-              "name": "Minh Dược Minh Hiển 3-2026 2.png",
-              "url": "https://drive.google.com/uc?id=1wt0_TPn84FKLxG1nRt0VQacSo825PPIE",
-              "thumb": "https://drive.google.com/thumbnail?id=1wt0_TPn84FKLxG1nRt0VQacSo825PPIE&sz=w600",
-              "desc": "Minh Dược Minh Hiển 3-2026 2.png"
-            },
-            {
-              "name": "Minh Dược chùa Cam Nepal 2 (2).png",
-              "url": "https://drive.google.com/uc?id=1375PLVPjj-DxS5JQiLU-PbzMCdmxksHh",
-              "thumb": "https://drive.google.com/thumbnail?id=1375PLVPjj-DxS5JQiLU-PbzMCdmxksHh&sz=w600",
-              "desc": "Minh Dược chùa Cam Nepal 2 (2).png"
-            },
-            {
-              "name": "Minh Dược chùa Cam Nepal 2 (1).png",
-              "url": "https://drive.google.com/uc?id=1h3TFZ4_V9xBodyhbZeFtTXn6D8ps_sPF",
-              "thumb": "https://drive.google.com/thumbnail?id=1h3TFZ4_V9xBodyhbZeFtTXn6D8ps_sPF&sz=w600",
-              "desc": "Minh Dược chùa Cam Nepal 2 (1).png"
-            },
-            {
-              "name": "Minh Dược chùa Cam Nepal.png",
-              "url": "https://drive.google.com/uc?id=1U9yOk6-QppUA3E2PjICwnqi2Q0R549Vh",
-              "thumb": "https://drive.google.com/thumbnail?id=1U9yOk6-QppUA3E2PjICwnqi2Q0R549Vh&sz=w600",
-              "desc": "Minh Dược chùa Cam Nepal.png"
             }
           ]
         },
         {
           "name": "Minh Khổ",
           "count": 1,
-          "cover": "https://drive.google.com/thumbnail?id=1hqtiqkshiO26fiI7zb3_8uX-0_AyfP7Y&sz=w600",
+          "cover": "https://drive.google.com/thumbnail?id=1cSy9k9d-2VOTmQKZ4oKUqUd9BIo2_CS2&sz=w600",
           "photos": [
             {
               "name": "Minh Khổ tại khu đất bên bờ sông Kathmandu Nepal 2-2026.png",
-              "url": "https://drive.google.com/uc?id=1hqtiqkshiO26fiI7zb3_8uX-0_AyfP7Y",
-              "thumb": "https://drive.google.com/thumbnail?id=1hqtiqkshiO26fiI7zb3_8uX-0_AyfP7Y&sz=w600",
+              "url": "https://drive.google.com/uc?id=1cSy9k9d-2VOTmQKZ4oKUqUd9BIo2_CS2",
+              "thumb": "https://drive.google.com/thumbnail?id=1cSy9k9d-2VOTmQKZ4oKUqUd9BIo2_CS2&sz=w600",
               "desc": "Minh Khổ tại khu đất bên bờ sông Kathmandu Nepal 2-2026.png"
-            }
-          ]
-        },
-        {
-          "name": "Minh Hiển (Hiển khờ khạo)",
-          "count": 2,
-          "cover": "https://drive.google.com/thumbnail?id=1juJj8u5PBKCIQl3qPYKRUH3zwHrUGg07&sz=w600",
-          "photos": [
-            {
-              "name": "Minh Hiển  tại tháp Như Ý Nepal 3-2026.png",
-              "url": "https://drive.google.com/uc?id=1juJj8u5PBKCIQl3qPYKRUH3zwHrUGg07",
-              "thumb": "https://drive.google.com/thumbnail?id=1juJj8u5PBKCIQl3qPYKRUH3zwHrUGg07&sz=w600",
-              "desc": "Minh Hiển  tại tháp Như Ý Nepal 3-2026.png"
-            },
-            {
-              "name": "Minh Hiển  tại tháp Như Ý Nepal 3-2026 2.png",
-              "url": "https://drive.google.com/uc?id=1Q9j9zFE9wVBtGq9jkO_AZgqVxJtA99RN",
-              "thumb": "https://drive.google.com/thumbnail?id=1Q9j9zFE9wVBtGq9jkO_AZgqVxJtA99RN&sz=w600",
-              "desc": "Minh Hiển  tại tháp Như Ý Nepal 3-2026 2.png"
             }
           ]
         },
         {
           "name": "Minh Hoan",
           "count": 4,
-          "cover": "https://drive.google.com/thumbnail?id=1YLyxga8eH-TcICQz9dclFPgZYDtqSEN4&sz=w600",
+          "cover": "https://drive.google.com/thumbnail?id=1cfftdtxP_Gx7EFEjSc1Ylcd_zWzNdlOh&sz=w600",
           "photos": [
             {
               "name": "Minh Hoan - Lâm tỳ ni Nepal (3).png",
-              "url": "https://drive.google.com/uc?id=1YLyxga8eH-TcICQz9dclFPgZYDtqSEN4",
-              "thumb": "https://drive.google.com/thumbnail?id=1YLyxga8eH-TcICQz9dclFPgZYDtqSEN4&sz=w600",
+              "url": "https://drive.google.com/uc?id=1cfftdtxP_Gx7EFEjSc1Ylcd_zWzNdlOh",
+              "thumb": "https://drive.google.com/thumbnail?id=1cfftdtxP_Gx7EFEjSc1Ylcd_zWzNdlOh&sz=w600",
               "desc": "Minh Hoan - Lâm tỳ ni Nepal (3).png"
             },
             {
               "name": "Minh Hoan - Lâm tỳ ni Nepal (1).png",
-              "url": "https://drive.google.com/uc?id=11jwph9dNWyZuuJSS5wgzQJBlfI6HfbQU",
-              "thumb": "https://drive.google.com/thumbnail?id=11jwph9dNWyZuuJSS5wgzQJBlfI6HfbQU&sz=w600",
+              "url": "https://drive.google.com/uc?id=1VTDIS7z_75hoZcURDtWBPLLweGC-lhHD",
+              "thumb": "https://drive.google.com/thumbnail?id=1VTDIS7z_75hoZcURDtWBPLLweGC-lhHD&sz=w600",
               "desc": "Minh Hoan - Lâm tỳ ni Nepal (1).png"
             },
             {
               "name": "Minh Hoan Minh Kiên- Lâm tỳ ni Nepal (2).png",
-              "url": "https://drive.google.com/uc?id=1OVds0cpFrN7pQTxibP1uNduKzIc0mgOr",
-              "thumb": "https://drive.google.com/thumbnail?id=1OVds0cpFrN7pQTxibP1uNduKzIc0mgOr&sz=w600",
+              "url": "https://drive.google.com/uc?id=1CMjYmjnWtRzt3HZ2SN_S6LLfioOWta4Z",
+              "thumb": "https://drive.google.com/thumbnail?id=1CMjYmjnWtRzt3HZ2SN_S6LLfioOWta4Z&sz=w600",
               "desc": "Minh Hoan Minh Kiên- Lâm tỳ ni Nepal (2).png"
             },
             {
               "name": "Minh Hoan ra viện Nepal.webp",
-              "url": "https://drive.google.com/uc?id=19gC1STiTA0GYNLLZPkwyArcyqb8pSbQA",
-              "thumb": "https://drive.google.com/thumbnail?id=19gC1STiTA0GYNLLZPkwyArcyqb8pSbQA&sz=w600",
+              "url": "https://drive.google.com/uc?id=1InhWHsI4f9sK7nSWNPd-lbHBUdhqsU7v",
+              "thumb": "https://drive.google.com/thumbnail?id=1InhWHsI4f9sK7nSWNPd-lbHBUdhqsU7v&sz=w600",
               "desc": "Minh Hoan ra viện Nepal.webp"
             }
           ]
         },
         {
-          "name": "Giác Thiện",
-          "count": 4,
-          "cover": "https://drive.google.com/thumbnail?id=1YCKAXn-zdR9gQ6sRYAmSgQilJrAbrz-E&sz=w600",
+          "name": "Minh Hiển (Hiển khờ khạo)",
+          "count": 2,
+          "cover": "https://drive.google.com/thumbnail?id=1My5cSrrpoSx-FrZZPHlJ6MhhhMEXXuXS&sz=w600",
           "photos": [
             {
-              "name": "Giác Thiện 3-2026 Kathmandu Nepal (2).png",
-              "url": "https://drive.google.com/uc?id=1YCKAXn-zdR9gQ6sRYAmSgQilJrAbrz-E",
-              "thumb": "https://drive.google.com/thumbnail?id=1YCKAXn-zdR9gQ6sRYAmSgQilJrAbrz-E&sz=w600",
-              "desc": "Giác Thiện 3-2026 Kathmandu Nepal (2).png"
+              "name": "Minh Hiển  tại tháp Như Ý Nepal 3-2026.png",
+              "url": "https://drive.google.com/uc?id=1My5cSrrpoSx-FrZZPHlJ6MhhhMEXXuXS",
+              "thumb": "https://drive.google.com/thumbnail?id=1My5cSrrpoSx-FrZZPHlJ6MhhhMEXXuXS&sz=w600",
+              "desc": "Minh Hiển  tại tháp Như Ý Nepal 3-2026.png"
             },
             {
-              "name": "Giác Thiện 3-2026 Kathmandu Nepal (1).png",
-              "url": "https://drive.google.com/uc?id=1J2EcDys_vHS-nlDEqfCZRc1LNLNyWjEz",
-              "thumb": "https://drive.google.com/thumbnail?id=1J2EcDys_vHS-nlDEqfCZRc1LNLNyWjEz&sz=w600",
-              "desc": "Giác Thiện 3-2026 Kathmandu Nepal (1).png"
+              "name": "Minh Hiển  tại tháp Như Ý Nepal 3-2026 2.png",
+              "url": "https://drive.google.com/uc?id=1XXc696BiBGBLfJ0aaqKIQNljhzi0S_eT",
+              "thumb": "https://drive.google.com/thumbnail?id=1XXc696BiBGBLfJ0aaqKIQNljhzi0S_eT&sz=w600",
+              "desc": "Minh Hiển  tại tháp Như Ý Nepal 3-2026 2.png"
+            }
+          ]
+        },
+        {
+          "name": "Minh Giải",
+          "count": 3,
+          "cover": "https://drive.google.com/thumbnail?id=1b4EIdLZnqcc1TaD0qVHFVbixPGK88kMX&sz=w600",
+          "photos": [
+            {
+              "name": "Minh Giải, Minh Hiển về đến VN an toàn 2.png",
+              "url": "https://drive.google.com/uc?id=1b4EIdLZnqcc1TaD0qVHFVbixPGK88kMX",
+              "thumb": "https://drive.google.com/thumbnail?id=1b4EIdLZnqcc1TaD0qVHFVbixPGK88kMX&sz=w600",
+              "desc": "Minh Giải, Minh Hiển về đến VN an toàn 2.png"
             },
             {
-              "name": "GIác Thiện và Chơn Chí 3-2026 2.png",
-              "url": "https://drive.google.com/uc?id=1r7M0ZhM3MMMDli5vuiutISkuNgbwLYbB",
-              "thumb": "https://drive.google.com/thumbnail?id=1r7M0ZhM3MMMDli5vuiutISkuNgbwLYbB&sz=w600",
-              "desc": "GIác Thiện và Chơn Chí 3-2026 2.png"
+              "name": "Minh Giải, Minh Hiển về đến VN an toàn.png",
+              "url": "https://drive.google.com/uc?id=1ReVngQatRg9trFgdHC6zLNR95B9CNbtm",
+              "thumb": "https://drive.google.com/thumbnail?id=1ReVngQatRg9trFgdHC6zLNR95B9CNbtm&sz=w600",
+              "desc": "Minh Giải, Minh Hiển về đến VN an toàn.png"
             },
             {
-              "name": "GIác Thiện và Chơn Chí 3-2026.png",
-              "url": "https://drive.google.com/uc?id=11yaNHK0gS1iBSc3MJc7Qjiv6J4jlRMjP",
-              "thumb": "https://drive.google.com/thumbnail?id=11yaNHK0gS1iBSc3MJc7Qjiv6J4jlRMjP&sz=w600",
-              "desc": "GIác Thiện và Chơn Chí 3-2026.png"
+              "name": "Minh Giải 3-2026 Nepal.png",
+              "url": "https://drive.google.com/uc?id=1MUmuak75O1ul9iKNslr2tHq8FCdNT_KG",
+              "thumb": "https://drive.google.com/thumbnail?id=1MUmuak75O1ul9iKNslr2tHq8FCdNT_KG&sz=w600",
+              "desc": "Minh Giải 3-2026 Nepal.png"
+            }
+          ]
+        },
+        {
+          "name": "Minh Hiền",
+          "count": 1,
+          "cover": "https://drive.google.com/thumbnail?id=1dg1YUq1i0XQCZrwLL6_zFmJJnSr7KhkK&sz=w600",
+          "photos": [
+            {
+              "name": "Minh Hiền 3-2026 Nepal.png",
+              "url": "https://drive.google.com/uc?id=1dg1YUq1i0XQCZrwLL6_zFmJJnSr7KhkK",
+              "thumb": "https://drive.google.com/thumbnail?id=1dg1YUq1i0XQCZrwLL6_zFmJJnSr7KhkK&sz=w600",
+              "desc": "Minh Hiền 3-2026 Nepal.png"
             }
           ]
         },
         {
           "name": "Chơn Chí",
           "count": 2,
-          "cover": "https://drive.google.com/thumbnail?id=1H-SHqgvR-bX_5ZTd4-QukqM-McorLaeo&sz=w600",
+          "cover": "https://drive.google.com/thumbnail?id=1nDM8HYsKi86hB8vTXrC7oyWSGSRCk_sV&sz=w600",
           "photos": [
             {
               "name": "Chơn Chí Nepal 3-2026 (2).png",
-              "url": "https://drive.google.com/uc?id=1H-SHqgvR-bX_5ZTd4-QukqM-McorLaeo",
-              "thumb": "https://drive.google.com/thumbnail?id=1H-SHqgvR-bX_5ZTd4-QukqM-McorLaeo&sz=w600",
+              "url": "https://drive.google.com/uc?id=1nDM8HYsKi86hB8vTXrC7oyWSGSRCk_sV",
+              "thumb": "https://drive.google.com/thumbnail?id=1nDM8HYsKi86hB8vTXrC7oyWSGSRCk_sV&sz=w600",
               "desc": "Chơn Chí Nepal 3-2026 (2).png"
             },
             {
               "name": "Chơn Chí Nepal 3-2026 (1).png",
-              "url": "https://drive.google.com/uc?id=1QElUD4BPceedK-V6IDO_6BaePTMcqnQI",
-              "thumb": "https://drive.google.com/thumbnail?id=1QElUD4BPceedK-V6IDO_6BaePTMcqnQI&sz=w600",
+              "url": "https://drive.google.com/uc?id=1yc9hTDm36HtyH4fXlZzYekrEpmYfosoU",
+              "thumb": "https://drive.google.com/thumbnail?id=1yc9hTDm36HtyH4fXlZzYekrEpmYfosoU&sz=w600",
               "desc": "Chơn Chí Nepal 3-2026 (1).png"
+            }
+          ]
+        },
+        {
+          "name": "Minh Dược",
+          "count": 6,
+          "cover": "https://drive.google.com/thumbnail?id=18GtA_6YkTYyJUIjlF7fYVbRMLjDpoVHO&sz=w600",
+          "photos": [
+            {
+              "name": "Tháp Như Ý 3-2026.png",
+              "url": "https://drive.google.com/uc?id=18GtA_6YkTYyJUIjlF7fYVbRMLjDpoVHO",
+              "thumb": "https://drive.google.com/thumbnail?id=18GtA_6YkTYyJUIjlF7fYVbRMLjDpoVHO&sz=w600",
+              "desc": "Tháp Như Ý 3-2026.png"
+            },
+            {
+              "name": "Minh Dược Minh Hiển 3-2026.png",
+              "url": "https://drive.google.com/uc?id=16WdXqJGbfRr2Z6OsGymepUV-dIXczFf8",
+              "thumb": "https://drive.google.com/thumbnail?id=16WdXqJGbfRr2Z6OsGymepUV-dIXczFf8&sz=w600",
+              "desc": "Minh Dược Minh Hiển 3-2026.png"
+            },
+            {
+              "name": "Minh Dược Minh Hiển 3-2026 2.png",
+              "url": "https://drive.google.com/uc?id=1RjpVxcwntpSeKbeIgAloGeooJUw7VT6p",
+              "thumb": "https://drive.google.com/thumbnail?id=1RjpVxcwntpSeKbeIgAloGeooJUw7VT6p&sz=w600",
+              "desc": "Minh Dược Minh Hiển 3-2026 2.png"
+            },
+            {
+              "name": "Minh Dược chùa Cam Nepal 2 (2).png",
+              "url": "https://drive.google.com/uc?id=1Y0voHpUXa1zCqNK1740g8RCHiAfXcyoI",
+              "thumb": "https://drive.google.com/thumbnail?id=1Y0voHpUXa1zCqNK1740g8RCHiAfXcyoI&sz=w600",
+              "desc": "Minh Dược chùa Cam Nepal 2 (2).png"
+            },
+            {
+              "name": "Minh Dược chùa Cam Nepal 2 (1).png",
+              "url": "https://drive.google.com/uc?id=1TGH4n_oUoBYkkoeU9kWVgdSzx_QEpGni",
+              "thumb": "https://drive.google.com/thumbnail?id=1TGH4n_oUoBYkkoeU9kWVgdSzx_QEpGni&sz=w600",
+              "desc": "Minh Dược chùa Cam Nepal 2 (1).png"
+            },
+            {
+              "name": "Minh Dược chùa Cam Nepal.png",
+              "url": "https://drive.google.com/uc?id=13Jt8t8t9v2lbfL1gtKMV6mvfu94vZUte",
+              "thumb": "https://drive.google.com/thumbnail?id=13Jt8t8t9v2lbfL1gtKMV6mvfu94vZUte&sz=w600",
+              "desc": "Minh Dược chùa Cam Nepal.png"
+            }
+          ]
+        },
+        {
+          "name": "Minh Chơn",
+          "count": 1,
+          "cover": "https://drive.google.com/thumbnail?id=15Nkg1-sjx0ijUTBDmKnIgHYpsQeSekhr&sz=w600",
+          "photos": [
+            {
+              "name": "Minh Chơn 1.png",
+              "url": "https://drive.google.com/uc?id=15Nkg1-sjx0ijUTBDmKnIgHYpsQeSekhr",
+              "thumb": "https://drive.google.com/thumbnail?id=15Nkg1-sjx0ijUTBDmKnIgHYpsQeSekhr&sz=w600",
+              "desc": "Minh Chơn 1.png"
+            }
+          ]
+        },
+        {
+          "name": "Giác Thiện",
+          "count": 4,
+          "cover": "https://drive.google.com/thumbnail?id=1W9h1glmxSyE4IEp6nO19RkuNiKy49PrM&sz=w600",
+          "photos": [
+            {
+              "name": "Giác Thiện 3-2026 Kathmandu Nepal (2).png",
+              "url": "https://drive.google.com/uc?id=1W9h1glmxSyE4IEp6nO19RkuNiKy49PrM",
+              "thumb": "https://drive.google.com/thumbnail?id=1W9h1glmxSyE4IEp6nO19RkuNiKy49PrM&sz=w600",
+              "desc": "Giác Thiện 3-2026 Kathmandu Nepal (2).png"
+            },
+            {
+              "name": "Giác Thiện 3-2026 Kathmandu Nepal (1).png",
+              "url": "https://drive.google.com/uc?id=1-DAMKx88V-UJFGgj9U25cwvoNjIP8tuW",
+              "thumb": "https://drive.google.com/thumbnail?id=1-DAMKx88V-UJFGgj9U25cwvoNjIP8tuW&sz=w600",
+              "desc": "Giác Thiện 3-2026 Kathmandu Nepal (1).png"
+            },
+            {
+              "name": "GIác Thiện và Chơn Chí 3-2026 2.png",
+              "url": "https://drive.google.com/uc?id=176ci_rk3dJ4pQn2Bbrdi6AiRZAa3VQs0",
+              "thumb": "https://drive.google.com/thumbnail?id=176ci_rk3dJ4pQn2Bbrdi6AiRZAa3VQs0&sz=w600",
+              "desc": "GIác Thiện và Chơn Chí 3-2026 2.png"
+            },
+            {
+              "name": "GIác Thiện và Chơn Chí 3-2026.png",
+              "url": "https://drive.google.com/uc?id=1BtjJEe5w7rhCSRF5XpvW0mhWxdj4T-VG",
+              "thumb": "https://drive.google.com/thumbnail?id=1BtjJEe5w7rhCSRF5XpvW0mhWxdj4T-VG&sz=w600",
+              "desc": "GIác Thiện và Chơn Chí 3-2026.png"
             }
           ]
         },
         {
           "name": "An Nhiên",
           "count": 1,
-          "cover": "https://drive.google.com/thumbnail?id=1-0Tr3lIVHM4IfkSxxuxzXCmjhZjD7hts&sz=w600",
+          "cover": "https://drive.google.com/thumbnail?id=10q8XCrXaf2ndCiqMECJsTRQ-lv-ImwG5&sz=w600",
           "photos": [
             {
               "name": "An Nhiên 15-3-2026 Nepal.png",
-              "url": "https://drive.google.com/uc?id=1-0Tr3lIVHM4IfkSxxuxzXCmjhZjD7hts",
-              "thumb": "https://drive.google.com/thumbnail?id=1-0Tr3lIVHM4IfkSxxuxzXCmjhZjD7hts&sz=w600",
+              "url": "https://drive.google.com/uc?id=10q8XCrXaf2ndCiqMECJsTRQ-lv-ImwG5",
+              "thumb": "https://drive.google.com/thumbnail?id=10q8XCrXaf2ndCiqMECJsTRQ-lv-ImwG5&sz=w600",
               "desc": "An Nhiên 15-3-2026 Nepal.png"
+            }
+          ]
+        },
+        {
+          "name": "Chiếu Đức",
+          "count": 1,
+          "cover": "https://drive.google.com/thumbnail?id=1IhMNggCJyng92D0oyme4Nnr0VYShtS2Y&sz=w600",
+          "photos": [
+            {
+              "name": "Chiếu Đức, AN LẠC.png",
+              "url": "https://drive.google.com/uc?id=1IhMNggCJyng92D0oyme4Nnr0VYShtS2Y",
+              "thumb": "https://drive.google.com/thumbnail?id=1IhMNggCJyng92D0oyme4Nnr0VYShtS2Y&sz=w600",
+              "desc": "Chiếu Đức, AN LẠC.png"
             }
           ]
         },
         {
           "name": "An Lạc",
           "count": 2,
-          "cover": "https://drive.google.com/thumbnail?id=1Nr_gDL6WbWbUnfyOTZcv_EtUX2mwyCx3&sz=w600",
+          "cover": "https://drive.google.com/thumbnail?id=1gcW7g0nYUQ6aNJLx7X7LqY7fWJVnQ5GR&sz=w600",
           "photos": [
             {
               "name": "An Lạc Tuệ Trí Uzerbekistan.png",
-              "url": "https://drive.google.com/uc?id=1Nr_gDL6WbWbUnfyOTZcv_EtUX2mwyCx3",
-              "thumb": "https://drive.google.com/thumbnail?id=1Nr_gDL6WbWbUnfyOTZcv_EtUX2mwyCx3&sz=w600",
+              "url": "https://drive.google.com/uc?id=1gcW7g0nYUQ6aNJLx7X7LqY7fWJVnQ5GR",
+              "thumb": "https://drive.google.com/thumbnail?id=1gcW7g0nYUQ6aNJLx7X7LqY7fWJVnQ5GR&sz=w600",
               "desc": "An Lạc Tuệ Trí Uzerbekistan.png"
             },
             {
               "name": "An Lạc Tuệ Trí.png",
-              "url": "https://drive.google.com/uc?id=1JT0DbfSCo8UU8YPXzelC4mRVBGOTxGrX",
-              "thumb": "https://drive.google.com/thumbnail?id=1JT0DbfSCo8UU8YPXzelC4mRVBGOTxGrX&sz=w600",
+              "url": "https://drive.google.com/uc?id=1blzsr32AA8R2NrfDO83nv9jc1Y8bZMgF",
+              "thumb": "https://drive.google.com/thumbnail?id=1blzsr32AA8R2NrfDO83nv9jc1Y8bZMgF&sz=w600",
               "desc": "An Lạc Tuệ Trí.png"
             }
           ]
@@ -1204,8 +1599,272 @@
       ]
     },
     {
+      "name": "Sư Minh Tuệ",
+      "albums": [
+        {
+          "name": "Tâm thư",
+          "count": 2,
+          "cover": "https://drive.google.com/thumbnail?id=1Ub1JKsDZAii2_pmeFxmRVfFMvJMIOOnu&sz=w600",
+          "photos": [
+            {
+              "name": "VSq8izA5T8.png",
+              "url": "https://drive.google.com/uc?id=1Ub1JKsDZAii2_pmeFxmRVfFMvJMIOOnu",
+              "thumb": "https://drive.google.com/thumbnail?id=1Ub1JKsDZAii2_pmeFxmRVfFMvJMIOOnu&sz=w600",
+              "desc": "VSq8izA5T8.png"
+            },
+            {
+              "name": "NXd31LTi2l.png",
+              "url": "https://drive.google.com/uc?id=16O-LfcsmKxvlpzPsOOX3XfeHYZxEDBAy",
+              "thumb": "https://drive.google.com/thumbnail?id=16O-LfcsmKxvlpzPsOOX3XfeHYZxEDBAy&sz=w600",
+              "desc": "NXd31LTi2l.png"
+            }
+          ]
+        },
+        {
+          "name": "Thư giới thiệu",
+          "count": 4,
+          "cover": "https://drive.google.com/thumbnail?id=14L5ihLejblY7rfgQP4AB0HwgCMA-U3Ev&sz=w600",
+          "photos": [
+            {
+              "name": "534525676_122176487492507346_5173777626923861864_n.jpg",
+              "url": "https://drive.google.com/uc?id=14L5ihLejblY7rfgQP4AB0HwgCMA-U3Ev",
+              "thumb": "https://drive.google.com/thumbnail?id=14L5ihLejblY7rfgQP4AB0HwgCMA-U3Ev&sz=w600",
+              "desc": "534525676_122176487492507346_5173777626923861864_n.jpg"
+            },
+            {
+              "name": "533178535_10236971874018080_5334279066438024704_n.jpg",
+              "url": "https://drive.google.com/uc?id=1juEOsNyqR_gi3Bgm1nHcdHoizqcIOwX0",
+              "thumb": "https://drive.google.com/thumbnail?id=1juEOsNyqR_gi3Bgm1nHcdHoizqcIOwX0&sz=w600",
+              "desc": "533178535_10236971874018080_5334279066438024704_n.jpg"
+            },
+            {
+              "name": "536145401_10236971873698072_352986798429203409_n.jpg",
+              "url": "https://drive.google.com/uc?id=1cmTqFwSABLgDOkwH6N7V-97HqS8nKdv9",
+              "thumb": "https://drive.google.com/thumbnail?id=1cmTqFwSABLgDOkwH6N7V-97HqS8nKdv9&sz=w600",
+              "desc": "536145401_10236971873698072_352986798429203409_n.jpg"
+            },
+            {
+              "name": "536180288_10236971872858051_9036392140528303584_n.jpg",
+              "url": "https://drive.google.com/uc?id=14YYUG5vUw7haLGnJIyoh6O1gG0CFOCFd",
+              "thumb": "https://drive.google.com/thumbnail?id=14YYUG5vUw7haLGnJIyoh6O1gG0CFOCFd&sz=w600",
+              "desc": "536180288_10236971872858051_9036392140528303584_n.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Sư Minh Tuệ 01",
+          "count": 18,
+          "cover": "https://drive.google.com/thumbnail?id=1FUYC5fsVvX8oGr_6LqdlxKc5GvhDCbLE&sz=w600",
+          "photos": [
+            {
+              "name": "Chùa Cam Nepal (2).png",
+              "url": "https://drive.google.com/uc?id=1FUYC5fsVvX8oGr_6LqdlxKc5GvhDCbLE",
+              "thumb": "https://drive.google.com/thumbnail?id=1FUYC5fsVvX8oGr_6LqdlxKc5GvhDCbLE&sz=w600",
+              "desc": "Chùa Cam Nepal (2).png"
+            },
+            {
+              "name": "Chùa Cam Nepal (1).png",
+              "url": "https://drive.google.com/uc?id=1IsOEHYQDTyiN5NIXaj870uCsAFsmi_0-",
+              "thumb": "https://drive.google.com/thumbnail?id=1IsOEHYQDTyiN5NIXaj870uCsAFsmi_0-&sz=w600",
+              "desc": "Chùa Cam Nepal (1).png"
+            },
+            {
+              "name": "Sư MT tại Lâm Tỳ Ni (2).png",
+              "url": "https://drive.google.com/uc?id=14WeE3veCHNLdTdqzALEyW5EyfW0JzGVu",
+              "thumb": "https://drive.google.com/thumbnail?id=14WeE3veCHNLdTdqzALEyW5EyfW0JzGVu&sz=w600",
+              "desc": "Sư MT tại Lâm Tỳ Ni (2).png"
+            },
+            {
+              "name": "Chùa Cam Nepal.png",
+              "url": "https://drive.google.com/uc?id=1ACOfquUsMw80SUHm0Q0ABCE0yc-XSkZ4",
+              "thumb": "https://drive.google.com/thumbnail?id=1ACOfquUsMw80SUHm0Q0ABCE0yc-XSkZ4&sz=w600",
+              "desc": "Chùa Cam Nepal.png"
+            },
+            {
+              "name": "Sư MT tại Lâm Tỳ Ni (1).png",
+              "url": "https://drive.google.com/uc?id=1D7zFuveD0sHyYm3Ge3nB-2I8ezvtaFdO",
+              "thumb": "https://drive.google.com/thumbnail?id=1D7zFuveD0sHyYm3Ge3nB-2I8ezvtaFdO&sz=w600",
+              "desc": "Sư MT tại Lâm Tỳ Ni (1).png"
+            },
+            {
+              "name": "Sư MT tại Lâm Tỳ Ni (6).png",
+              "url": "https://drive.google.com/uc?id=1gY3ACyvs4DKZ65Y0RubHFNvkjlpw0KcE",
+              "thumb": "https://drive.google.com/thumbnail?id=1gY3ACyvs4DKZ65Y0RubHFNvkjlpw0KcE&sz=w600",
+              "desc": "Sư MT tại Lâm Tỳ Ni (6).png"
+            },
+            {
+              "name": "Sư MT tại Lâm Tỳ Ni (5).png",
+              "url": "https://drive.google.com/uc?id=1s1Q63a7IFNKvDBhMf-5PThGK5fgN47wf",
+              "thumb": "https://drive.google.com/thumbnail?id=1s1Q63a7IFNKvDBhMf-5PThGK5fgN47wf&sz=w600",
+              "desc": "Sư MT tại Lâm Tỳ Ni (5).png"
+            },
+            {
+              "name": "Sư MT tại Lâm Tỳ Ni (4).png",
+              "url": "https://drive.google.com/uc?id=1nApZXwFZg0Kc28nqzfAcfReJShQx5EQ-",
+              "thumb": "https://drive.google.com/thumbnail?id=1nApZXwFZg0Kc28nqzfAcfReJShQx5EQ-&sz=w600",
+              "desc": "Sư MT tại Lâm Tỳ Ni (4).png"
+            },
+            {
+              "name": "Sư MT tại Lâm Tỳ Ni (3).png",
+              "url": "https://drive.google.com/uc?id=1G8Ss2P6HI0eKY9sf8CmzmW68gvAbC80f",
+              "thumb": "https://drive.google.com/thumbnail?id=1G8Ss2P6HI0eKY9sf8CmzmW68gvAbC80f&sz=w600",
+              "desc": "Sư MT tại Lâm Tỳ Ni (3).png"
+            },
+            {
+              "name": "DOZpm9FesT.png",
+              "url": "https://drive.google.com/uc?id=1oKPWMjlOolkQYwgZ26pC3DR0Tv3Umxt7",
+              "thumb": "https://drive.google.com/thumbnail?id=1oKPWMjlOolkQYwgZ26pC3DR0Tv3Umxt7&sz=w600",
+              "desc": "DOZpm9FesT.png"
+            },
+            {
+              "name": "595837168_10162139234702843_3527809648967703450_n.jpg",
+              "url": "https://drive.google.com/uc?id=1hULx8mNjjBQU6kCDpeskCBAaMcXydRlv",
+              "thumb": "https://drive.google.com/thumbnail?id=1hULx8mNjjBQU6kCDpeskCBAaMcXydRlv&sz=w600",
+              "desc": "595837168_10162139234702843_3527809648967703450_n.jpg"
+            },
+            {
+              "name": "6-11-2025.png",
+              "url": "https://drive.google.com/uc?id=1bQrs9SouknkszqnrxAMovNhjPOysO7_L",
+              "thumb": "https://drive.google.com/thumbnail?id=1bQrs9SouknkszqnrxAMovNhjPOysO7_L&sz=w600",
+              "desc": "6-11-2025.png"
+            },
+            {
+              "name": "Chùa Cam 2.png",
+              "url": "https://drive.google.com/uc?id=1kmvwTKToQO0zBKaobd4mT1p-2KnLPd3t",
+              "thumb": "https://drive.google.com/thumbnail?id=1kmvwTKToQO0zBKaobd4mT1p-2KnLPd3t&sz=w600",
+              "desc": "Chùa Cam 2.png"
+            },
+            {
+              "name": "NyvhXHGXFc.png",
+              "url": "https://drive.google.com/uc?id=1tikU6MUYY6KRubwRGcEOBjIwxUeXVOx8",
+              "thumb": "https://drive.google.com/thumbnail?id=1tikU6MUYY6KRubwRGcEOBjIwxUeXVOx8&sz=w600",
+              "desc": "NyvhXHGXFc.png"
+            },
+            {
+              "name": "Sư Minh Tuệ bị cảnh sát mời đi ở Bồ Đề Đạo Tràng ẤN ĐỘ (2).png",
+              "url": "https://drive.google.com/uc?id=1YxqZlUXkOAMD8qdwDvpIwK16SjpeKvjk",
+              "thumb": "https://drive.google.com/thumbnail?id=1YxqZlUXkOAMD8qdwDvpIwK16SjpeKvjk&sz=w600",
+              "desc": "Sư Minh Tuệ bị cảnh sát mời đi ở Bồ Đề Đạo Tràng ẤN ĐỘ (2).png"
+            },
+            {
+              "name": "Sư Minh Tuệ bị cảnh sát mời đi ở Bồ Đề Đạo Tràng ẤN ĐỘ (3).png",
+              "url": "https://drive.google.com/uc?id=1y_C6qtE6wsnVxine4Zmnm8ZzRVxbwL2-",
+              "thumb": "https://drive.google.com/thumbnail?id=1y_C6qtE6wsnVxine4Zmnm8ZzRVxbwL2-&sz=w600",
+              "desc": "Sư Minh Tuệ bị cảnh sát mời đi ở Bồ Đề Đạo Tràng ẤN ĐỘ (3).png"
+            },
+            {
+              "name": "Sư Minh Tuệ bị cảnh sát mời đi ở Bồ Đề Đạo Tràng ẤN ĐỘ (1).png",
+              "url": "https://drive.google.com/uc?id=1W3I1KgsX1Eoz39p_hrYmgFprQt_HemlA",
+              "thumb": "https://drive.google.com/thumbnail?id=1W3I1KgsX1Eoz39p_hrYmgFprQt_HemlA&sz=w600",
+              "desc": "Sư Minh Tuệ bị cảnh sát mời đi ở Bồ Đề Đạo Tràng ẤN ĐỘ (1).png"
+            },
+            {
+              "name": "Sư Minh Tuệ ở Lào.jpg",
+              "url": "https://drive.google.com/uc?id=1_WDxYVrkKlV_tL1Cm2xnHtZhOkYeJfVX",
+              "thumb": "https://drive.google.com/thumbnail?id=1_WDxYVrkKlV_tL1Cm2xnHtZhOkYeJfVX&sz=w600",
+              "desc": "Sư Minh Tuệ ở Lào.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Ngủ đứng",
+          "count": 8,
+          "cover": "https://drive.google.com/thumbnail?id=1rCORWwRacqLtdv6UaPsn8MybdMPAvleK&sz=w600",
+          "photos": [
+            {
+              "name": "2025-06-21_143614.png",
+              "url": "https://drive.google.com/uc?id=1rCORWwRacqLtdv6UaPsn8MybdMPAvleK",
+              "thumb": "https://drive.google.com/thumbnail?id=1rCORWwRacqLtdv6UaPsn8MybdMPAvleK&sz=w600",
+              "desc": "2025-06-21_143614.png"
+            },
+            {
+              "name": "2025-06-21_143537.png",
+              "url": "https://drive.google.com/uc?id=1a3bOvzwMrpCAttlUpVItpofoP4XEhFvR",
+              "thumb": "https://drive.google.com/thumbnail?id=1a3bOvzwMrpCAttlUpVItpofoP4XEhFvR&sz=w600",
+              "desc": "2025-06-21_143537.png"
+            },
+            {
+              "name": "2025-06-20_092532.png",
+              "url": "https://drive.google.com/uc?id=1NUNCi2oia8_nzGywGTtVnhVX0bXBDwpI",
+              "thumb": "https://drive.google.com/thumbnail?id=1NUNCi2oia8_nzGywGTtVnhVX0bXBDwpI&sz=w600",
+              "desc": "2025-06-20_092532.png"
+            },
+            {
+              "name": "2025-06-20_092520.png",
+              "url": "https://drive.google.com/uc?id=1SW6rwgcluuGz05Yn4v1DLF-fsiwWOfRQ",
+              "thumb": "https://drive.google.com/thumbnail?id=1SW6rwgcluuGz05Yn4v1DLF-fsiwWOfRQ&sz=w600",
+              "desc": "2025-06-20_092520.png"
+            },
+            {
+              "name": "2025-06-20_092359.png",
+              "url": "https://drive.google.com/uc?id=1pklrYX4c78pk2qN7GE2TNm_O8pC1cdPU",
+              "thumb": "https://drive.google.com/thumbnail?id=1pklrYX4c78pk2qN7GE2TNm_O8pC1cdPU&sz=w600",
+              "desc": "2025-06-20_092359.png"
+            },
+            {
+              "name": "2025-06-20_092340.png",
+              "url": "https://drive.google.com/uc?id=1wyRLq2get-Ixf8En2UIDvES1vVAlg5jP",
+              "thumb": "https://drive.google.com/thumbnail?id=1wyRLq2get-Ixf8En2UIDvES1vVAlg5jP&sz=w600",
+              "desc": "2025-06-20_092340.png"
+            },
+            {
+              "name": "2025-06-20_092323.png",
+              "url": "https://drive.google.com/uc?id=1R13Xa850yP6D9GbMjJfdt6MVif5Ymayx",
+              "thumb": "https://drive.google.com/thumbnail?id=1R13Xa850yP6D9GbMjJfdt6MVif5Ymayx&sz=w600",
+              "desc": "2025-06-20_092323.png"
+            },
+            {
+              "name": "2025-06-20_092258.png",
+              "url": "https://drive.google.com/uc?id=1jqGh0mWQMKN5uOy3aYmW5CHPvfLkdpLV",
+              "thumb": "https://drive.google.com/thumbnail?id=1jqGh0mWQMKN5uOy3aYmW5CHPvfLkdpLV&sz=w600",
+              "desc": "2025-06-20_092258.png"
+            }
+          ]
+        },
+        {
+          "name": "Facebook",
+          "count": 1,
+          "cover": "https://drive.google.com/thumbnail?id=1vrAhsT1G2esbVev5arcSINiaAk4eEuvz&sz=w600",
+          "photos": [
+            {
+              "name": "fb-IMG_0657.jpg",
+              "url": "https://drive.google.com/uc?id=1vrAhsT1G2esbVev5arcSINiaAk4eEuvz",
+              "thumb": "https://drive.google.com/thumbnail?id=1vrAhsT1G2esbVev5arcSINiaAk4eEuvz&sz=w600",
+              "desc": "fb-IMG_0657.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "TNV",
-      "albums": []
+      "albums": [
+        {
+          "name": "TNV 01",
+          "count": 3,
+          "cover": "https://drive.google.com/thumbnail?id=1T80tUFpo414q36k5i1lxqCqDIKRKQhWu&sz=w600",
+          "photos": [
+            {
+              "name": "Làm bạt chống mưa nắng cho ĐOÀN 12-3-2026.png",
+              "url": "https://drive.google.com/uc?id=1T80tUFpo414q36k5i1lxqCqDIKRKQhWu",
+              "thumb": "https://drive.google.com/thumbnail?id=1T80tUFpo414q36k5i1lxqCqDIKRKQhWu&sz=w600",
+              "desc": "Làm bạt chống mưa nắng cho ĐOÀN 12-3-2026.png"
+            },
+            {
+              "name": "Phước Nghiêm , Quang Hà ở Malaysia.jpg",
+              "url": "https://drive.google.com/uc?id=1pH0AA5NfK8wJFDpA2EHLagaPoKrVpJ6_",
+              "thumb": "https://drive.google.com/thumbnail?id=1pH0AA5NfK8wJFDpA2EHLagaPoKrVpJ6_&sz=w600",
+              "desc": "Phước Nghiêm , Quang Hà ở Malaysia.jpg"
+            },
+            {
+              "name": "TNV quỳ lạy trươc khi rời ĐOÀN.png",
+              "url": "https://drive.google.com/uc?id=1eXRUXG3ELVmjIDsf_dEfws1rRKlGohto",
+              "thumb": "https://drive.google.com/thumbnail?id=1eXRUXG3ELVmjIDsf_dEfws1rRKlGohto&sz=w600",
+              "desc": "TNV quỳ lạy trươc khi rời ĐOÀN.png"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
